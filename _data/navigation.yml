@@ -1,9 +1,5 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Regionsfinal 2020"
+    url: /regionsfinal2020/
+  - title: "Om oss"
+    url: /om-oss/
