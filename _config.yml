@@ -33,6 +33,7 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: SE # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 teaser: /assets/images/500x300.jpg
+repository:  fll-skane/fllskane-jekyll-2 
 
 include:
   - _pages
