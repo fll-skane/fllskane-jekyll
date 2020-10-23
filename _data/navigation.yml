@@ -1,5 +1,8 @@
+---
 main:
-  - title: "Regionsfinal 2020"
-    url: /regionsfinal2020/
-  - title: "Om oss"
-    url: /om-oss/
+- title: Bli medlem
+  url: bli-medlem
+- title: Regionsfinal 2020
+  url: "/regionsfinal2020/"
+- title: Om oss
+  url: "/om-oss/"
