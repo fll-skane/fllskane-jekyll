@@ -1,0 +1,10 @@
+---
+label: Sida
+hide_body: false
+fields:
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: title
+  label: title
