@@ -1,6 +1,6 @@
 ---
 permalink: "/"
-layout: home
+layout: spread
 
 ---
 Här kommer snart en fin hemsida!
