@@ -59,23 +59,23 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-# author:
-#   name   : "First Lastname"
-#   avatar : "/assets/images/bio-photo.jpg"
-#   bio    : "My awesome biography constrained to a sentence or two goes here."
-#   links:
-#     - label: "Website"
-#       icon: "fas fa-fw fa-link"
-#       url: "https://"
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-#       url: "https://twitter.com/"
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/"
-#     - label: "Instagram"
-#       icon: "fab fa-fw fa-instagram"
-#       url: "https://instagram.com/"
+author:
+  name   : "FIRST LEGO League Skåne"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "Föreningen First Lego League Skåne är en ideell förening som arrangerar tävlingar kring FIRST LEGO League."
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://beta.firstlegoleagueskane.com"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
 
 footer:
   links:
