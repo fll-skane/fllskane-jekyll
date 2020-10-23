@@ -1,8 +1,22 @@
 ---
 permalink: "/"
-layout: spread
+layout: home
 
 ---
-Här kommer snart en fin hemsida!
+**Välkommen till FIRST LEGO League Skåne!**
 
-![](/uploads/fll19-73.jpg)
+Missa inte regionsfinalen 7 november!
+
+***
+
+**Senaste nyheter**
+
+* 1
+* 2
+* 3
+
+***
+
+**Senaste uppdateringar från Facebook**
+
+    {{ code goes here }}
