@@ -24,9 +24,9 @@ feature_row:
   btn_class: btn--primary
   btn_label: Läs mer
 - image_path: "/uploads/fll19-7.jpg"
-  alt: nyfikenhet
-  title: Nyfikenhet
-  excerpt: Nyfikenhet
+  alt: laganda
+  title: Laganda
+  excerpt: ''
   url: "/#/"
   btn_class: btn--primary
   btn_label: Läs mer
