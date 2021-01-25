@@ -6,14 +6,13 @@ header:
   overlay_color: "#5e616c"
   overlay_image: "/assets/images/mm-home-page-feature.jpg"
   actions: []
-excerpt: 'En förening för alla.
-
-'
+excerpt: En förening med syfte att befästa barn och ungdomars nyfikenhet kring problemlösning,
+  programmering, teknik och laganda.
 feature_row:
 - image_path: "/uploads/fll19-73-2.jpg"
   alt: engagemang
-  title: Engagemang
-  excerpt: Engagemang
+  title: Nyfikenhet
+  excerpt: ''
   url: "/#/"
   btn_class: btn--primary
   btn_label: Läs mer
