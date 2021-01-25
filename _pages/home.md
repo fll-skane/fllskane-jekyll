@@ -39,10 +39,10 @@ feature_row:
 
 {% include feature_row %}
 
-**Senaste nyheter**
+**Nyheter**
 
 ***
 
-**Senaste uppdateringar från Facebook**
+**Uppdateringar från Facebook**
 
 [First Lego League Skåne](https://www.facebook.com/FLLSkane)
