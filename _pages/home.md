@@ -24,7 +24,7 @@ feature_row:
   url: "/#/"
   btn_class: btn--primary
   btn_label: Läs mer
-- image_path: "/assets/images/mm-free-feature.png"
+- image_path: "/uploads/fll19-7.jpg"
   alt: nyfikenhet
   title: Nyfikenhet
   excerpt: Nyfikenhet
