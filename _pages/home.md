@@ -4,7 +4,7 @@ permalink: "/"
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: "/assets/images/mm-home-page-feature.jpg"
+  overlay_image: https://png.pngtree.com/thumb_back/fh260/background/20190828/pngtree-dark-vector-abstract-background-image_302715.jpg
   actions: []
 excerpt: En förening med syfte att befästa barn och ungdomars nyfikenhet kring problemlösning,
   programmering, teknik och laganda.
