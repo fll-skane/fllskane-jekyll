@@ -17,9 +17,9 @@ feature_row:
   btn_class: btn--primary
   btn_label: Läs mer
 - image_path: "/uploads/fll19-85.jpg"
-  alt: passion
-  title: Passion
-  excerpt: Passion
+  alt: programmering
+  title: Programmering
+  excerpt: ''
   url: "/#/"
   btn_class: btn--primary
   btn_label: Läs mer
