@@ -45,4 +45,4 @@ feature_row:
 
 **Senaste uppdateringar från Facebook**
 
-    {{ code goes here }}
+[First Lego League Skåne](https://www.facebook.com/FLLSkane)
