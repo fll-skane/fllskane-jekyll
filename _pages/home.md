@@ -32,7 +32,6 @@ feature_row:
   url: "/#/"
   btn_class: btn--primary
   btn_label: Läs mer
-published: false
 
 ---
 **Välkommen till FIRST LEGO League Skåne!**
@@ -48,7 +47,3 @@ Välkommen till vår hemsida! Just nu är det inte mycket information här, men 
 {% for post in site.posts limit:4 %}
 {% include archive-single.html type="grid" %}
 {% endfor %}
-
-***
-
-Senaste
