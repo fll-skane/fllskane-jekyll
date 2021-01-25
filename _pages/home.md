@@ -36,7 +36,7 @@ feature_row:
 ---
 **Välkommen till FIRST LEGO League Skåne!**
 
-Välkommen till vår hemsida! Just nu är det inte mycket information här, men i takt med att snön smälter och träden blomstrar, så kommer även det även att växa fram något här också.
+Välkommen till vår hemsida! Just nu är det inte mycket information här, men i takt med att snön smälter och träden blomstrar, så kommer även det att växa fram något här också.
 
 ***
 
