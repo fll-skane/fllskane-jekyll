@@ -10,8 +10,8 @@ excerpt: En förening med syfte att befästa barn och ungdomars nyfikenhet kring
   programmering, teknik och laganda.
 feature_row:
 - image_path: "/uploads/fll19-73-2.jpg"
-  alt: engagemang
-  title: Nyfikenhet
+  alt: problemlosning
+  title: Problemlösning
   excerpt: ''
   url: "/#/"
   btn_class: btn--primary
