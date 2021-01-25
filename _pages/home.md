@@ -33,9 +33,11 @@ feature_row:
   btn_label: Läs mer
 
 ---
-{% include feature_row %}
-
 **Välkommen till FIRST LEGO League Skåne!**
+
+***
+
+{% include feature_row %}
 
 ***
 
