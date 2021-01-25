@@ -17,7 +17,7 @@ feature_row:
   url: "/#/"
   btn_class: btn--primary
   btn_label: Läs mer
-- image_path: "/assets/images/mm-responsive-feature.png"
+- image_path: "/uploads/fll19-85.jpg"
   alt: passion
   title: Passion
   excerpt: Passion
