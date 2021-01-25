@@ -10,7 +10,7 @@ excerpt: 'En förening för alla.
 
 '
 feature_row:
-- image_path: "/assets/images/mm-customizable-feature.png"
+- image_path: "/uploads/fll19-73-2.jpg"
   alt: engagemang
   title: Engagemang
   excerpt: Engagemang
