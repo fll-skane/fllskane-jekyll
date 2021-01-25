@@ -6,10 +6,4 @@ tags:
 - årsmöte
 
 ---
-# Kallelse till årsmöte 2021
-
-Var
-
-När
-
-Hur
+_Mer info kommer snart._
