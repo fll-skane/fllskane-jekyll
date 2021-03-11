@@ -12,22 +12,22 @@ excerpt: En förening med syfte att befästa barn och ungdomars nyfikenhet kring
   programmering, teknik och laganda.
 feature_row:
 - image_path: "/uploads/fll19-73-2.jpg"
-  alt: problemlosning
-  title: Problemlösning
+  alt: lag
+  title: För lag
   excerpt: ''
   url: "/#/"
   btn_class: btn--primary
   btn_label: Läs mer
 - image_path: "/uploads/fll19-85.jpg"
-  alt: programmering
-  title: Programmering
+  alt: partners
+  title: För partners / partnerskap
   excerpt: ''
   url: "/#/"
   btn_class: btn--primary
   btn_label: Läs mer
 - image_path: "/uploads/fll19-7.jpg"
-  alt: laganda
-  title: Laganda
+  alt: jury-voluntär
+  title: För jury/voluntär
   excerpt: ''
   url: "/#/"
   btn_class: btn--primary
