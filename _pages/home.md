@@ -17,7 +17,7 @@ feature_row:
   excerpt: All information för lagen hittar du på hjernekraft.org.
   url: https://hjernekraft.org/
   btn_class: btn--primary
-  btn_label: Läs mer
+  btn_label: hjernekraft.org
 - image_path: "/uploads/fll19-85.jpg"
   alt: partners
   title: För partners / partnerskap
