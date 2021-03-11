@@ -14,8 +14,8 @@ feature_row:
 - image_path: "/uploads/fll19-73-2.jpg"
   alt: lag
   title: För lag
-  excerpt: ''
-  url: "/#/"
+  excerpt: All information för lagen hittar du på hjernekraft.org.
+  url: https://hjernekraft.org/
   btn_class: btn--primary
   btn_label: Läs mer
 - image_path: "/uploads/fll19-85.jpg"
