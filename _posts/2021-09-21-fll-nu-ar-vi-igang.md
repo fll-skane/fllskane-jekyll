@@ -5,9 +5,9 @@ categories: []
 tags: []
 
 ---
-![](/uploads/fll-lagledarmote-1108x820.jpg)
-
 I lördags gick startskottet för årets uppdrag i FLL. Klockan 13.00 var det uppdragssläpp och äntligen fritt fram för alla lagledare och unga att med entusiasm och glädje ta sig an årets utmaning som heter ”Cargo Connect” och som handlar om hur vi kan förändra/förbättra transporter av gods/last på ett hållbart sätt för framtiden där de unga söker efter lösningar på utmaningar som vi vuxna inte har svaret på idag. Uppdraget är skapat för att engagera och inspirera barn och unga till att söka sig till vetenskap och teknologi. Här är länken till UPPDRAGSSLÄPPET: [https://www.facebook.com/firstlegoleague/videos/552312049156255/](https://www.facebook.com/firstlegoleague/videos/552312049156255/ "https://www.facebook.com/firstlegoleague/videos/552312049156255/")
+
+![](/uploads/fll-lagledarmote-1108x820.jpg)
 
 Vad är då First Lego League?
 
