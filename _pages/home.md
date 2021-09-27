@@ -44,6 +44,4 @@ Välkommen till vår hemsida! Just nu är det inte mycket information här, men 
 
 **Nyheter**
 
-{% for post in site.posts limit:4 %}
-{% include archive-single.html type="grid" %}
-{% endfor %}
+{% for post in site.posts limit:3 %} {% include archive-single.html type="grid" %} {% endfor %}
