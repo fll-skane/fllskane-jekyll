@@ -1,7 +1,7 @@
 ---
 permalink: "/for-jury-volontarer/"
 title: För jury/volontärer
-toc: true
+toc: false
 classes: wide
 
 ---
