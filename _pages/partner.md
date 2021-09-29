@@ -1,6 +1,24 @@
 ---
 title: Partner
-published: false
 
 ---
-Vill du bidra
+# Bli partner till FIRST LEGO League Skåne!
+
+Genom FIRST LEGO League (FLL) möter unga näringslivets och samhällets företrädare i ett långsiktigt sammanhang.
+
+Under tävlingsdagen presenterar lagen sitt arbete och tävlar mot varandra om den bästa och mest innovativa lösningen inför jurygrupper med representanter från näringsliv och akademi.
+
+Som partner är ni med och bidra till att göra lagens upplevelse till något utöver det vanliga så att fler väljer en framtid med en teknisk eller naturvetenskaplig bas.
+
+Årets uppdrag offentliggörs den 18 september 2021. Men mer än någonsin behöver vi samarbeta för att innovera och lösa problem. I FLL är deltagarna del av en gemenskap fylld med inspiration, kreativitet och hopp för en starkare och mer hållbar framtid – en som byggs tillsammans. De har makten och förmågan att hjälpa varandra att nå nya höjder och deras robotar löser kluriga uppdrag på tävlingsbanan. Lärare, syskon, föräldrar och andra intresserade tittar nyfiket på.
+
+Under dagen utses Skånes regionala vinnare för att representera Skåne i den skandinaviska finalen i Ålesund i mars 2022.
+
+Oavsett vem som vinner så kommer över 450 barn (4-9 år och 10-16 år) att under åtta veckor ha byggt laganda, undersökt frågeställningar som de själva identifierat och skapat egna lösningar på tekniska problem som skulle utmana många vuxna.
+
+#### **Vill du och ditt företag göra skillnad? Kontakta mig!**
+
+**Leila Khammari**  
+ordförande , Föreningen FIRST LEGO League Skåne  
+[leila@firstlegoleagueskane.se]()  
+070-561 38 85
