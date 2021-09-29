@@ -14,8 +14,9 @@ feature_row:
 - image_path: "/uploads/fll19-73-2.jpg"
   alt: lag
   title: För lag/lagledare
-  excerpt: Hjälp till dig som lagledare
-  url: "/for-lag-lagledare"
+  excerpt: Är du lagledare som vill veta mer? Här hittar du länkar, tips och viktiga
+    datum.
+  url: "/_pages/for-lag-lagledare"
   btn_class: btn--primary
   btn_label: Läs mer
 - image_path: "/uploads/fll19-85.jpg"
