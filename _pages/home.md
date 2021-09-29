@@ -30,7 +30,7 @@ feature_row:
   alt: jury-volontar
   title: För jury/volontär
   excerpt: ''
-  url: "/#/"
+  url: "/for-jury-volontarer/"
   btn_class: btn--primary
   btn_label: Läs mer
 
