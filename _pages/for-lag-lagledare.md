@@ -11,11 +11,10 @@ published: false
 
 ### Hur
 
-### Tips!
+### Tips till dig som lagledare
 
 * **Skaffa ett Googlekonto**  
   Mycket av kommunikationen med oss kommer att ske via Google, så det underlättar ifall ni har tillgång till deras tjänster. Ni kan antingen använda ett befintligt konto, eller skapa ett nytt.
-* 
 
 ## Viktiga datum
 
