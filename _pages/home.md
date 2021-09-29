@@ -42,7 +42,7 @@ feature_row:
 
 {% include feature_row %}
 
-### **Partners**
+### **Våra samarbetspartners**
 
 * ARM
 * Axis Communications
