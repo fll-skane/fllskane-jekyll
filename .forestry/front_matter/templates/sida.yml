@@ -11,6 +11,12 @@ fields:
 - name: toc
   type: boolean
   label: Table of contents
+- name: classes
+  type: text
+  config:
+    required: false
+  label: Classes
+  hidden: true
 pages:
 - _pages/bli-medlem.md
 - _pages/for-jury-volontarer-1.md
