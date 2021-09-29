@@ -5,12 +5,6 @@ published: false
 ---
 # För lag/lagledare
 
-### Var
-
-### När
-
-### Hur
-
 ### Tips till dig som lagledare
 
 * **Skaffa ett Googlekonto**  
