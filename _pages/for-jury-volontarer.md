@@ -1,5 +1,5 @@
 ---
-permalink: jury
+permalink: "/jury/"
 title: Jury
 
 ---
