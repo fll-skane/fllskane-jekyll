@@ -27,16 +27,18 @@ published: false
 * 1/10 Anmälan till årets Regionfinal stänger
 * 4/10-8/10 Vi tar personlig kontakt via telefon med var lagledare för att stämma av med er hur läget är.
 * 25/10 Frivilligt lagledarmöte online - här får ni chansen att träffa domarna en kort stund med.
-* 26/10 sista dagen för lagledarna att lämna in GDPR-information och beställa lunch
-* 27/10 Lagledarmöet digitalt frivilligt 15.00 för frågor inför turneringen innan lovet kommer.
+* 26/10 sista dagen för lagledarna att lämna in [GDPR-information](https://hjernekraft.org/media/dokumenter/samtykkeerklaring/se-samtyckesblankett-2021.pdf) och beställa lunch
+* 27/10 Lagledarmötet digitalt frivilligt 15.00 för frågor inför turneringen innan lovet kommer.
 * 29/10 Uppföljning av lagledare via telefon
-* 1/11 OBS viktigt! Sista dagen för lagledarna att avboka de luncher de vet inte kommer att behövas.
+* **1/11 OBS viktigt! Sista dagen för lagledarna att avboka de luncher de vet inte kommer att behövas.**
 * 10/11 Sista dagen att lämna in rapporterna, filmerna och annat material.
 * 13/11 Regionsfinal
 
 ## Bra länkar
 
 * [hjernekraft.org](hjernekraft.org)
+* [Sida med bra länkar till lagledare](https://hjernekraft.org/challenge/for-veiledere/ressurser?lang=se "Sida med bra länkar till lagledare")
+* [Samtyckesblankett](https://hjernekraft.org/media/dokumenter/samtykkeerklaring/se-samtyckesblankett-2021.pdf)
 
 ## Projektledare
 
