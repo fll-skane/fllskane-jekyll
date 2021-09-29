@@ -1,5 +1,6 @@
 ---
 title: För lag/lagledare
+toc: true
 
 ---
 # För lag/lagledare
