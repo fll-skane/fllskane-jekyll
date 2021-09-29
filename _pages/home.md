@@ -15,7 +15,7 @@ feature_row:
   alt: lag
   title: För lag
   excerpt: All information för lagen hittar du på hjernekraft.org.
-  url: https://hjernekraft.org/
+  url: "/for-lag-lagledare"
   btn_class: btn--primary
   btn_label: Läs mer
 - image_path: "/uploads/fll19-85.jpg"
