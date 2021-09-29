@@ -4,6 +4,8 @@ title: Partner
 ---
 # Bli partner till FIRST LEGO League Skåne!
 
+![](/uploads/lagbild.jpg)
+
 Genom FIRST LEGO League (FLL) möter unga näringslivets och samhällets företrädare i ett långsiktigt sammanhang.
 
 Under tävlingsdagen presenterar lagen sitt arbete och tävlar mot varandra om den bästa och mest innovativa lösningen inför jurygrupper med representanter från näringsliv och akademi.
