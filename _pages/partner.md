@@ -16,7 +16,7 @@ Under dagen utses Skånes regionala vinnare för att representera Skåne i den s
 
 Oavsett vem som vinner så kommer över 450 barn (4-9 år och 10-16 år) att under åtta veckor ha byggt laganda, undersökt frågeställningar som de själva identifierat och skapat egna lösningar på tekniska problem som skulle utmana många vuxna.
 
-#### **Vill du och ditt företag också vara med och göra skillnad? Kontakta mig!**
+#### **Vill du och ditt företag också vara med och göra skillnad? Kontakta mig.**
 
 **Leila Khammari**  
 ordförande , Föreningen FIRST LEGO League Skåne  
