@@ -22,8 +22,8 @@ feature_row:
 - image_path: "/uploads/fll19-85.jpg"
   alt: partners
   title: För partners/partnerskap
-  excerpt: ''
-  url: "/#/"
+  excerpt: Vill du också vara med och stötta framtidens ingenjörer?
+  url: "/bli-partner/"
   btn_class: btn--primary
   btn_label: Läs mer
 - image_path: "/uploads/fll19-7.jpg"
@@ -44,6 +44,8 @@ feature_row:
 **Nyheter**
 
 {% for post in site.posts limit:3 %} {% include archive-single.html type="grid" %} {% endfor %}
+
+***
 
 ### **Partners**
 
