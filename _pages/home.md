@@ -33,11 +33,16 @@ feature_row:
   url: "/#/"
   btn_class: btn--primary
   btn_label: Läs mer
+- alt: ''
+  title: Test
+  excerpt: ''
+  url: ''
+  btn_class: ''
+  btn_label: ''
+  image_path: "/uploads/fll19-7.jpg"
 
 ---
 **Välkommen till FIRST LEGO League Skåne!**
-
-Välkommen till vår hemsida! Just nu är det inte mycket information här, men i takt med att snön smälter och träden blomstrar, så kommer även det att växa fram något här också.
 
 ***
 
