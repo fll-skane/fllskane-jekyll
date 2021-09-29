@@ -27,8 +27,8 @@ feature_row:
   btn_class: btn--primary
   btn_label: Läs mer
 - image_path: "/uploads/fll19-7.jpg"
-  alt: jury-voluntär
-  title: För jury/voluntär
+  alt: jury-volontar
+  title: För jury/volontär
   excerpt: ''
   url: "/#/"
   btn_class: btn--primary
