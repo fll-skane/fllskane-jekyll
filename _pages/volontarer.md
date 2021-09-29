@@ -1,5 +1,5 @@
 ---
-permalink: volontar
+permalink: "/volontar/"
 title: Volontärer
 
 ---
