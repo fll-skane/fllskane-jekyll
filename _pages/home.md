@@ -21,7 +21,7 @@ feature_row:
   btn_label: Läs mer
 - image_path: "/uploads/fll19-85.jpg"
   alt: partners
-  title: För partners / partnerskap
+  title: För partners/partnerskap
   excerpt: ''
   url: "/#/"
   btn_class: btn--primary
@@ -44,3 +44,13 @@ feature_row:
 **Nyheter**
 
 {% for post in site.posts limit:3 %} {% include archive-single.html type="grid" %} {% endfor %}
+
+**Partners**
+
+* Axis Communications
+* Tetra Pak
+* ustwo
+* ARM
+* Malmö stad
+* Region Skåne
+* Skolverket
