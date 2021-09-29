@@ -42,10 +42,6 @@ feature_row:
 
 {% include feature_row %}
 
-**Nyheter**
-
-{% for post in site.posts limit:3 %} {% include archive-single.html type="grid" %} {% endfor %}
-
 ***
 
 ### **Partners**
@@ -57,3 +53,9 @@ feature_row:
 * Malmö stad
 * Region Skåne
 * Skolverket
+
+***
+
+**Nyheter**
+
+{% for post in site.posts limit:3 %} {% include archive-single.html type="grid" %} {% endfor %}
