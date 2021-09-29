@@ -20,7 +20,7 @@ published: false
 ## Viktiga datum
 
 * 9/9 Teknikgenomgångsmöte online med vår huvudbandomare Magnus - ni anmäler er till denna här: [https://forms.gle/Dm94x4AXAinwfpq89](https://forms.gle/Dm94x4AXAinwfpq89 "https://forms.gle/Dm94x4AXAinwfpq89")
-* 18/9 Uppdragssläpp!! Yeay!!
+* 18/9 [Uppdragssläpp](https://hjernekraft.org/challenge/for-lag/oppdrag)!! Yeay!!
 * 20/9 14.00 - 16.00 Lagledarmöte på Husieskolan - genomgång av årets uppdrag, Challengebanan, allmän information och utdelning av t-shirts. Både för EXPLORE och CHALLENGE
 * 26/9 Sista dagen för extrabeställning av t-shirts
 * 27/9 Första uppföljning av lagledare via telefon för att stämma och peppa igång.
