@@ -3,14 +3,15 @@ permalink: "/om-oss/"
 title: Om oss
 
 ---
-## Styrelsemedlemmar 2020
+## Styrelsemedlemmar
 
-* Leila Khammari, _ordförande_
 * Annie Bergh
-* Tove Thyni
-* Martin Müntzig
+* Jenny Nyberg
+* Leila Khammari, _ordförande_
 * Magnus Wallenborg
+* Martin Müntzig
 * Richard Luong, _kassör_
+* Tove Thyni
 
 ## Dokument
 
