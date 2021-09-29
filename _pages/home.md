@@ -33,13 +33,6 @@ feature_row:
   url: "/#/"
   btn_class: btn--primary
   btn_label: Läs mer
-- alt: ''
-  title: Test
-  excerpt: ''
-  url: ''
-  btn_class: ''
-  btn_label: ''
-  image_path: "/uploads/fll19-7.jpg"
 
 ---
 **Välkommen till FIRST LEGO League Skåne!**
