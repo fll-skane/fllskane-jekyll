@@ -45,12 +45,12 @@ feature_row:
 
 {% for post in site.posts limit:3 %} {% include archive-single.html type="grid" %} {% endfor %}
 
-**Partners**
+### **Partners**
 
+* ARM
 * Axis Communications
 * Tetra Pak
 * ustwo
-* ARM
 * Malmö stad
 * Region Skåne
 * Skolverket
