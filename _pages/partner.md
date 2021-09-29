@@ -1,4 +1,5 @@
 ---
+permalink: "/bli-partner/"
 title: Partner
 
 ---
