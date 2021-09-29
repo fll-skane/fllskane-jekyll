@@ -13,8 +13,8 @@ excerpt: En förening med syfte att befästa barn och ungdomars nyfikenhet kring
 feature_row:
 - image_path: "/uploads/fll19-73-2.jpg"
   alt: lag
-  title: För lag
-  excerpt: All information för lagen hittar du på hjernekraft.org.
+  title: För lag/lagledare
+  excerpt: Hjälp till dig som lagledare
   url: "/for-lag-lagledare"
   btn_class: btn--primary
   btn_label: Läs mer
