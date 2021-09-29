@@ -5,8 +5,9 @@ title: Jury
 ---
 ## Vill du vara med i juryn för FIRST LEGO League Skåne?
 
-**Jurygrupper  
-**Vi söker yrkesverksamma till följande jurygrupper:
+### **Jurygrupper**
+
+Vi söker yrkesverksamma till följande jurygrupper:
 
 * Projektjury: I projektdelen ska lagen själva definiera ett problem. De ska angripa problemet och presentera en innovativ (ny eller förbättrad) lösning.
 * Teknikjury: I teknikdelen ska lagen bygga en LEGO-robot och programmera den att lösa uppdrag på robotbanan.
