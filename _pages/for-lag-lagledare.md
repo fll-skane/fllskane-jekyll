@@ -13,7 +13,8 @@ published: false
 
 ### Tips!
 
-* Skaffa ett Googlekonto
+* **Skaffa ett Googlekonto**  
+  Mycket av kommunikationen med oss kommer att ske via Google, så det underlättar ifall ni har tillgång till deras tjänster. Ni kan antingen använda ett befintligt konto, eller skapa ett nytt.
 * 
 
 ## Viktiga datum
@@ -23,15 +24,15 @@ published: false
 * 20/9 14.00 - 16.00 Lagledarmöte på Husieskolan - genomgång av årets uppdrag, Challengebanan, allmän information och utdelning av t-shirts. Både för EXPLORE och CHALLENGE
 * 26/9 Sista dagen för extrabeställning av t-shirts
 * 27/9 Första uppföljning av lagledare via telefon för att stämma och peppa igång.
-* 1/10 anmälan till årets Regionfinal stänger
-* 4/10 - 8/10 Vi tar personlig kontakt via telefon med var lagledare för att stämma av med er hur läget är.
+* 1/10 Anmälan till årets Regionfinal stänger
+* 4/10-8/10 Vi tar personlig kontakt via telefon med var lagledare för att stämma av med er hur läget är.
 * 25/10 Frivilligt lagledarmöte online - här får ni chansen att träffa domarna en kort stund med.
 * 26/10 sista dagen för lagledarna att lämna in GDPR-information och beställa lunch
 * 27/10 Lagledarmöet digitalt frivilligt 15.00 för frågor inför turneringen innan lovet kommer.
 * 29/10 Uppföljning av lagledare via telefon
 * 1/11 OBS viktigt! Sista dagen för lagledarna att avboka de luncher de vet inte kommer att behövas.
 * 10/11 Sista dagen att lämna in rapporterna, filmerna och annat material.
-* 13 november - Regionsfinal
+* 13/11 Regionsfinal
 
 ## Bra länkar
 
