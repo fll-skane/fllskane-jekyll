@@ -10,9 +10,9 @@ Under tävlingsdagen presenterar lagen sitt arbete och tävlar mot varandra om d
 
 Som partner är ni med och bidra till att göra lagens upplevelse till något utöver det vanliga så att fler väljer en framtid med en teknisk eller naturvetenskaplig bas.
 
-Årets uppdrag offentliggörs den 18 september 2021. Men mer än någonsin behöver vi samarbeta för att innovera och lösa problem. I FLL är deltagarna del av en gemenskap fylld med inspiration, kreativitet och hopp för en starkare och mer hållbar framtid – en som byggs tillsammans. De har makten och förmågan att hjälpa varandra att nå nya höjder och deras robotar löser kluriga uppdrag på tävlingsbanan. Lärare, syskon, föräldrar och andra intresserade tittar nyfiket på.
+Mer än någonsin behöver vi samarbeta för att innovera och lösa problem. I FLL är deltagarna del av en gemenskap fylld med inspiration, kreativitet och hopp för en starkare och mer hållbar framtid – en som byggs tillsammans. De har makten och förmågan att hjälpa varandra att nå nya höjder och deras robotar löser kluriga uppdrag på tävlingsbanan. Lärare, syskon, föräldrar och andra intresserade tittar nyfiket på.
 
-Under dagen utses Skånes regionala vinnare för att representera Skåne i den skandinaviska finalen i Ålesund i mars 2022.
+Under dagen utses Skånes regionala vinnare för att representera Skåne i den skandinaviska finalen.
 
 Oavsett vem som vinner så kommer över 450 barn (4-9 år och 10-16 år) att under åtta veckor ha byggt laganda, undersökt frågeställningar som de själva identifierat och skapat egna lösningar på tekniska problem som skulle utmana många vuxna.
 
