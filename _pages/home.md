@@ -26,7 +26,7 @@ feature_row:
   url: "/bli-partner/"
   btn_class: btn--primary
   btn_label: Läs mer
-- image_path: "/uploads/jury.png"
+- image_path: "/uploads/fll19-7.jpg"
   alt: jury-volontar
   title: För jury/volontär
   excerpt: 'Vill du vara med och göra denna dag en minnesvärd dag för barn och ungdomar
