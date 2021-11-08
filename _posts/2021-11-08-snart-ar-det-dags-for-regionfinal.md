@@ -5,7 +5,7 @@ categories: []
 tags: []
 
 ---
-Snart är det dags! All information om regionfinalen hittar du på
+Snart är det dags! All information om regionfinalen hittar du på dessa sidor.
 
 * https://hjenekraft.org
 * [https://www.firstlegoleagueskane.se/regionfinal-2021](https://www.firstlegoleagueskane.se/regionfinal-2021 "https://www.firstlegoleagueskane.se/regionfinal-2021")
