@@ -42,12 +42,10 @@ feature_row:
 
 {% include feature_row %}
 
+**Nyheter**
+
+{% for post in site.posts limit:4 %} {% include archive-single.html type="grid" %} {% endfor %}
+
 ### **Våra samarbetspartners**
 
 ![](/uploads/sponsorer.png)
-
-***
-
-**Nyheter**
-
-{% for post in site.posts limit:3 %} {% include archive-single.html type="grid" %} {% endfor %}
