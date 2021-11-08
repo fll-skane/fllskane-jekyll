@@ -1,6 +1,6 @@
 ---
 title: Snart är det dags för regionfinal!
-date: 
+date: 2021-11-08 00:00:00 +0100
 categories: []
 tags: []
 
