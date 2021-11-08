@@ -44,13 +44,7 @@ feature_row:
 
 ### **Våra samarbetspartners**
 
-* ARM
-* Axis Communications
-* Tetra Pak
-* ustwo
-* Malmö stad
-* Region Skåne
-* Skolverket
+![](/uploads/sponsorer.png)
 
 ***
 
