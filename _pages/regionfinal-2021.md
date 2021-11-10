@@ -12,3 +12,15 @@ Här hittar du all information om regionfinalen i FIRST LEGO League Skåne 2021!
 ## Program
 
 [Programblad 2021](https://docs.google.com/presentation/d/1fNJi_DD2LwlbJaNChy7Idb8xyxXws9uQjtnK1Ttv7qQ/edit?usp=sharing "Programblad 2021")
+
+## Robotschema
+
+[Programblad 2021](https://docs.google.com/presentation/d/1fNJi_DD2LwlbJaNChy7Idb8xyxXws9uQjtnK1Ttv7qQ/edit?usp=sharing "Programblad 2021")
+
+## Presentationer
+
+[Programblad 2021](https://docs.google.com/presentation/d/1fNJi_DD2LwlbJaNChy7Idb8xyxXws9uQjtnK1Ttv7qQ/edit?usp=sharing "Programblad 2021")
+
+## EXPLORE
+
+[Programblad 2021](https://docs.google.com/presentation/d/1fNJi_DD2LwlbJaNChy7Idb8xyxXws9uQjtnK1Ttv7qQ/edit?usp=sharing "Programblad 2021")
