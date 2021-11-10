@@ -15,7 +15,11 @@ Här hittar du all information om regionfinalen i FIRST LEGO League Skåne 2021!
 
 ## Kartor
 
-[Kartor](https://drive.google.com/drive/folders/1wFKcGW5UX-rx2_aw8cjJJwiMHT-kowYA?usp=sharing "Kartor")
+[Kartor](https://drive.google.com/drive/folders/1fDceXgyq3RckE9Tzg2iKKL3_GnmisIlI?usp=sharing "Kartor")
+
+## Praktisk info
+
+[Praktisk info till lagledare](https://docs.google.com/document/d/1-7oV6ZdhsQo4I1IG6eH8eWvFdzDjfRkFELlLlhLuVfo/edit#heading=h.jvgulub0dte "Praktisk info till lagledare")
 
 ## EXPLORE
 
