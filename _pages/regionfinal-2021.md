@@ -16,7 +16,7 @@ Här hittar du all information om regionfinalen i FIRST LEGO League Skåne 2021!
 ## Resultat och prisutdelning
 
 [Matchresultat](https://hjernekraft.org/challenge/turneringer/resultater "Matchresultat")  
-[Livestream av prisutdelning](https://hjernekraft.org/challenge/turneringer/resultater)
+[Livestream av prisutdelning](https://youtu.be/3SqPhvHPObE)
 
 ## Kartor
 
