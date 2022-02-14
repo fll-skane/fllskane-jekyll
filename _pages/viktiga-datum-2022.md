@@ -1,5 +1,5 @@
 ---
-permalink: "/viktiga-datum-2022"
+permalink: viktiga-datum-2022
 title: Viktiga datum 2022
 toc: false
 classes: ''
