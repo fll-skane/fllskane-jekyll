@@ -5,8 +5,6 @@ categories: []
 tags: []
 
 ---
-![](https://pedagog.malmo.se/app/uploads/2022/03/FIRST-EXPLORE-LOGO-hog-1030x820.jpg =1030x820)
-
 Ett av våra Skånelag fick möjligheten att åka till Houston, Texas för att vara med i First Lego League World Finals nu i april och här fick de verkligen ett kvitto på hur väl deras hårda arbete har format dem till ett välfungerande team! Läs lagledarens egna berättelse här om deras erfarenheter och upplevelser – det är en fröjd att få dela denna upplevelse med dem. Stort tack till Rochelle Watkins och hennes Explorelag, Lundian Råkors.:
 
 Seven years after founding a Robotics Club at the International Engelska Skolan in Lund, I was speechless when our team found ourselves at the First Lego League World Finals in Houston, Texas, accepting an award on stage. It’s a journey always dreamed about by a coach, but hardly expected, simply because there are so many amazing kids in so many amazing teams. Yet, here we were.
