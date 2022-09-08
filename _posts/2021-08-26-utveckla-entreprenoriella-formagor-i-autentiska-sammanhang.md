@@ -1,6 +1,6 @@
 ---
 title: Utveckla entreprenöriella förmågor i autentiska sammanhang
-date: 2021-08-26 00:00:00 +0200
+date: 2021-08-26T00:00:00.000+02:00
 categories: []
 tags: []
 
@@ -27,4 +27,4 @@ FLL är ett fantastiskt sätt för att uppnå både de grundläggande färdighet
 
 ## Kontakt med näringsliv
 
-I Skåne har vi haft Regionfinal för FLL sedan 2017 men det har funnits i Skandinavien sedan år 2000. Att arbeta med FLL innebär att arbeta med verkliga utmaningar och finna lösningar på hur närmiljön kan förbättras/förändras utifrån våra ungas sätt att se på tillvaron. Här får våra unga kontakt med näringsliv och samhället och möjlighet att utveckla tankar/produkter i ett nära samspel med dem. Att arbeta med de processer som ingår i FLL så sätts programmering och teknik inte bara i ett sammanhang för våra unga utan de får också arbeta ämnesövergripande kring teamet där de får verktyg för att påverka och förändra samhälleliga strukturer då de utvecklar sina entreprenöriella förmågor i autentiska sammanhang.
+I Skåne har vi haft Regionfinal för FLL sedan 2017 men det har funnits i Skandinavien sedan år 2000. Att arbeta med FLL innebär att arbeta med verkliga utmaningar och finna lösningar på hur närmiljön kan förbättras/förändras utifrån våra ungas sätt att se på tillvaron. Här får våra unga kontakt med näringsliv och samhället och möjlighet att utveckla tankar/produkter i ett nära samspel med dem. Att arbeta med de processer som ingår i FLL så sätts programmering och teknik inte bara i ett sammanhang för våra unga utan de får också arbeta ämnesövergripande kring teamet där de får verktyg för att påverka och förändra samhälleliga strukturer då de utvecklar sina entreprenöriella förmågor i autentiska sammanhang..
