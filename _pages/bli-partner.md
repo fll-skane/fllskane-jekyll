@@ -1,15 +1,14 @@
 ---
-permalink: /bli-partner/
+permalink: "/bli-partner/"
 title: Bli partner till FIRST LEGO League Skåne
 layout: single
 header:
-  image: https://dummyimage.com/1280x300/cccccc/000000.png
+  image: "/uploads/prisutdelning.jpg"
   caption: 
 author_profile: true
 author: Leila Khammari
 
 ---
-
 Genom FIRST LEGO League (FLL) möter unga näringslivets och samhällets företrädare i ett långsiktigt sammanhang.
 
 Under tävlingsdagen presenterar lagen sitt arbete och tävlar mot varandra om den bästa och mest innovativa lösningen inför jurygrupper med representanter från näringsliv och akademi.
