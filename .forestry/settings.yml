@@ -22,6 +22,8 @@ sections:
   label: Sidor
   create: documents
   match: "**/*"
+  templates:
+  - sida
 - type: document
   path: _data/navigation.yml
   label: Navigation
