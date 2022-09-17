@@ -21,6 +21,8 @@ sections:
   label: Aktiviteter
   create: documents
   match: "**/*"
+  templates:
+  - aktivitet
 - type: document
   path: _data/authors.yml
   label: Kontaktpersoner
