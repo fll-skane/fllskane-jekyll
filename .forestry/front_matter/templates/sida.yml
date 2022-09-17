@@ -22,13 +22,16 @@ fields:
   label: Visa kontaktperson
 - name: author
   type: select
-  default: []
+  default: ''
   config:
     required: false
     options: []
     source:
-      type: pages
+      type: documents
       section: kontaktpersoner
-      file: 
+      file: _data/authors.yml
       path: 
   label: Kontaktperson
+  showOnly:
+    field: author_profile
+    value: true
