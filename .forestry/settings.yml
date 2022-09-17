@@ -4,6 +4,15 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: _data/authors.yml
+  label: Kontaktpersoner
+  match: "**/*"
+- type: directory
+  path: _events
+  label: Aktiviteter
+  create: documents
+  match: "**/*"
 - type: jekyll-posts
   label: Nyheter
   create: all
