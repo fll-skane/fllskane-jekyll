@@ -4,10 +4,14 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Titel
 - type: datetime
   name: date
-  label: date
+  label: Datum
+- name: tags
+  type: tag_list
+  default: []
+  label: Taggar
 pages:
 - _posts/2021-01-25-kallelse-till-arsmote-2021.md
 - _posts/2021-08-26-utveckla-entreprenoriella-formagor-i-autentiska-sammanhang.md
