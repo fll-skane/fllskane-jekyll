@@ -9,8 +9,6 @@ sections:
   label: Sidor
   create: documents
   match: "**/*"
-  templates:
-  - sida
 - type: jekyll-posts
   label: Nyheter
   create: documents
