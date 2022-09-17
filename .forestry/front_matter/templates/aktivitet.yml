@@ -1,4 +1,33 @@
 ---
 label: Aktivitet
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Titel
+- name: excerpt
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+    max: 300
+  label: Sammanfattning
+- name: tags
+  type: tag_list
+  default: []
+  label: Taggar
+- name: eventstart
+  type: datetime
+  label: Startdatum
+  description: ''
+  config:
+    required: true
+    date_format: YYYY-MM-DD
+    time_format: hh:mm
+    display_utc: false
+    export_format: YYYY-MM-DD hh:mm:ss
