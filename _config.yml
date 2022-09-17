@@ -40,6 +40,7 @@ repository:  fll-skane/fllskane-jekyll-2
 
 include:
   - _pages
+  - _events
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
