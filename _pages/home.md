@@ -6,9 +6,7 @@ excerpt: En förening med syfte att befästa barn och ungdomars nyfikenhet kring
   programmering, teknik och laganda.
 header:
   overlay_image: "/uploads/laktaren.jpg"
-  xactions:
-  - label: Bli medlem
-    url: "/bli-medlem"
+  overlay_filter: "rgba(0, 0, 0, 0.5)"
 feature_row:
 - title: Stötta som domare
   excerpt: Vill du skapa en minnesvärd dag för barn och unga som brinner för innovation
