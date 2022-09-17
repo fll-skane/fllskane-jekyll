@@ -34,17 +34,13 @@ feature_row:
   btn_label: Läs om att bli partner
 
 ---
-{% include countdown.html %}
-
-[Teaser]
-
 {% include feature_row %}
 
 ## Nyheter
 
 <div class="posts">
-{% for post in site.posts limit:4 %} 
-  {% include archive-single.html type="grid" %}
+{% for post in site.posts limit:4 %}
+{% include archive-single.html type="grid" %}
 {% endfor %}
 </div>
 
