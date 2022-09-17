@@ -1,6 +1,6 @@
 ---
 title: "Deadline: avbokning av lunch"
-eventstart: 2022-11-01
+eventstart: 2022-11-01 00:00:00
 tags:
   - Lagledare
 ---

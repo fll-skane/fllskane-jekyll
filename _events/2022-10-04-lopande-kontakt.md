@@ -1,7 +1,7 @@
 ---
 title: Kontakt med lagledare 4-8 oktober
-eventstart: 2022-10-04
-eventend: 2022-10-08
+eventstart: 2022-10-04 00:00:00
+eventend: 2022-10-08 00:00:00
 tags:
   - Lagledare
 ---

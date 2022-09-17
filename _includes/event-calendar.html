@@ -5,7 +5,8 @@
 {% else %}
   {% assign tag_filter = include.tag %}
 {% endif %}
-{% for event in site.events %}
+{% assign events = site.events | sort: "eventstart", "last" %}
+{% for event in events %}
   {% if tag_filter == nil or event.tags contains tag_filter %}
     {% include event-card.html event=event location=true %}
     {% assign count = count | plus: 1 %}

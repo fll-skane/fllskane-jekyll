@@ -1,6 +1,6 @@
 ---
 title: "Deadline: ändring av lagnamn"
-eventstart: 2022-10-28
+eventstart: 2022-10-28 00:00:00
 tags:
   - Lagledare
 ---

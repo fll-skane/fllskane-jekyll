@@ -1,6 +1,6 @@
 ---
 title: "Deadline: GDPR & anmäla lunch"
-eventstart: 2022-10-02
+eventstart: 2022-10-02 00:00:00
 excerpt: Lämna in GDPR-information och beställa lunch (gäller enbart Challenge-lag)
 tags:
   - Lagledare

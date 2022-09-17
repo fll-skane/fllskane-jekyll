@@ -1,6 +1,6 @@
 ---
 title: "Deadline: anmäla lagmedlemmar"
-eventstart: 2022-10-21
+eventstart: 2022-10-21 00:00:00
 tags:
   - Lagledare
 ---
