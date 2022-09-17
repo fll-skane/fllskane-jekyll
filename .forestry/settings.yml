@@ -7,7 +7,6 @@ sections:
 - type: document
   path: _data/authors.yml
   label: Kontaktpersoner
-  match: "**/*"
 - type: directory
   path: _events
   label: Aktiviteter

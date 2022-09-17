@@ -17,3 +17,18 @@ fields:
     required: false
   label: Classes
   hidden: false
+- name: author_profile
+  type: boolean
+  label: Visa kontaktperson
+- name: author
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: kontaktpersoner
+      file: 
+      path: 
+  label: Kontaktperson
