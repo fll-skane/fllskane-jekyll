@@ -1,0 +1,217 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+/* disable annoying slow full-page load animations */
+$global-transition: none;
+$intro-transition: none;
+
+/* -- copied from master --*/
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+/* -- end copy --*/
+
+.page__content {
+  h2, h3 {
+    border-bottom: 0;
+    margin-top: 0;
+  }
+}
+
+/* ensure list of news floating left doesn't mess up what's below */
+div.posts {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.page__footer-follow li {
+  text-transform: none;
+}
+
+body.layout--news-item nav.pagination {
+  display: none;
+}
+
+/*
+.fa, .fas {
+  font-weight: normal;
+}
+*/
+body.page__allt-om {
+  section.calendar {
+    .event__item {
+      &.event-period-today, &.event-period-future {
+        display: none;
+      }
+      &.event-period-index-1,
+      &.event-period-index-2,
+      &.event-period-index-3,
+      &.event-period-index-4,
+      &.event-period-index-5
+      {
+        display: table;
+      }
+    }
+  }  
+}
+section.calendar {
+  xborder: 1px solid $light-gray;
+  xborder-radius: 1.3em;
+  xpadding: 1.0em;
+  xpadding-bottom: 0;
+  xmargin-bottom: 1em;
+  
+  .event__item {
+    display: none; /* hide all by default; then show them based on time period (past/today/future below) */
+    content: "";
+    clear: both;
+    min-height: 4.0em;
+    margin-bottom: 1.0em;
+    width: 100%;
+    padding-left: 4.5em;
+  
+    &.event-period-today, &.event-period-future {
+      display: table;
+    }
+
+    time.date-icon {
+      position: absolute;
+      margin-left: -4.5em;
+    }
+
+    a.event__name {
+      xtext-decoration: none;
+      font-size: $h-size-4;
+      color: $text-color;
+      font-weight: bold;
+      display: block;
+    }
+    .event__excerpt {
+      font-size: $type-size-6;
+
+      p {
+        margin-bottom: 0;
+      }
+    }    
+  }
+}
+
+time.date-icon {
+  position: relative;
+  width: 3.5em;
+  height: 3.5em;
+  float: left;
+  xborder-radius: 0.5em;
+  xborder: 0.10em solid $dark-gray;
+  background-color: #fff;
+
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.25);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.25);
+
+  .weekday, .date, .month {
+    display: block;
+    text-align: center;
+    font-size: $type-size-8;
+    padding: 0;
+    margin: 0;
+    line-height: 1.3;
+  }
+  .weekday {
+    border-radius: $border-radius $border-radius 0px 0px;
+    background-color: $danger-color; /* $base0f; */
+    color: white;
+  }
+  .date {
+    font-size: $type-size-3;
+    line-height: 1.1;
+    font-weight: bold;
+  }
+  .month {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: $lighter-gray;
+    border-radius: 0px 0px $border-radius $border-radius;
+    xcolor: #fff;
+  }
+}
+
+body.layout--news-item {
+  .event__item {
+    float: right;
+    max-width: 40%;
+    min-width: 200px;
+
+    padding: 5px;
+    xborder-radius: 18px;
+    xbackground-color: #eee;
+    xborder: 3px solid #ccc;
+  }
+}
+
+body.layout--event-item {
+  h1 {
+    margin-top: 21px;
+  }
+
+  time.date-icon {
+    margin-top: -21px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 1em;
+  }
+}
+
+.team__item {
+  position: relative;
+  float: left;
+  width: 49%;
+  padding-left: 50px;
+  margin-bottom: 1em;
+
+  .team__item-number {
+    span {
+      display: block;
+      text-transform: uppercase;
+      font-size: $type-size-8;
+    }
+    display: block;
+    position: absolute;
+    margin-left: -50px;
+    background-color: $gray;
+    color: #fff;
+    border-radius: 0.4em;
+
+    font-size: $type-size-6;
+    width: 40px;
+    height: 40px;
+    line-height: 1.0em;
+    text-align: center;
+  }
+
+  &.team__item-division-challenge {
+    .team__item-number {
+      background-color: $danger-color; /* red */
+    }
+  }
+  &.team__item-division-explore {
+    .team__item-number {
+      background-color: $success-color; /* green */
+    }
+  }
+
+  .team__item-name {
+    font-weight: bold;
+    line-height: 1.0em;
+  }
+
+  .team__item-org {
+    font-size: $type-size-6;
+  }
+}

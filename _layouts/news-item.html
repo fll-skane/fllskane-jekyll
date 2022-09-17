@@ -1,0 +1,10 @@
+---
+layout: single
+
+---
+
+{% if page.event %}
+  {% include event-card.html event=page.event %}
+{% endif %}
+
+{{ content }}

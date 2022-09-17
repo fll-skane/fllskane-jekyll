@@ -1,0 +1,8 @@
+{%- assign person=site.data.authors[include.name] -%}
+{{ person.name }} ({{ include.bio | default: person.bio }})
+{%- if person.telephone -%},
+  [{{ person.telephone }}](tel:{{ person.telephone }})
+{%- endif -%}
+{%- if person.email -%},
+  [{{ person.email }}](mailto:{{ person.email }})
+{%- endif -%}

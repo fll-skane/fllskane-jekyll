@@ -14,8 +14,4 @@ fields:
 - type: list
   name: tags
   label: tags
-pages:
-- _posts/2021-01-25-kallelse-till-arsmote-2021.md
-- _posts/2021-08-26-utveckla-entreprenoriella-formagor-i-autentiska-sammanhang.md
-- _posts/2021-09-21-fll-nu-ar-vi-igang.md
-- _posts/legoliga-ger-vardegrundsvinster.md
+pages: []

@@ -1,0 +1,29 @@
+<div itemscope itemtype="https://schema.org/Person" class="h-card">
+  <div class="person__content">
+    <div class="person__name p-name" itemprop="name">{{ person.name }}</div>
+    <div class="person__bio p-note" itemprop="description">
+      {{ include.bio | default: person.bio }}
+    </div>
+  </div>
+
+  <div class="person__urls-wrapper">
+    <ul class="person__urls">
+      {% if person.telephone %}
+        <li>
+          <a href="tel:{{ person.telephone }}" class="u-phone">
+            <meta itemprop="telephone" content="{{ person.telephone }}" />
+            {{ person.telephone }}
+          </a>
+        </li>
+      {% endif %}
+      {% if person.email %}
+        <li>
+          <a href="mailto:{{ person.email }}" class="u-email">
+            <meta itemprop="email" content="{{ person.email }}" />
+            {{ person.email }}
+          </a>
+        </li>
+      {% endif %}
+    </ul>
+  </div>
+</div>

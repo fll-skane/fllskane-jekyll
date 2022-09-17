@@ -1,11 +1,14 @@
 ---
-permalink: "/bli-partner/"
-title: Partner
+permalink: /bli-partner/
+title: Bli partner till FIRST LEGO League Skåne
+layout: single
+header:
+  image: https://dummyimage.com/1280x300/cccccc/000000.png
+  caption: 
+author_profile: true
+author: Leila Khammari
 
 ---
-# Bli partner till FIRST LEGO League Skåne!
-
-![](/uploads/lagbild.jpg)
 
 Genom FIRST LEGO League (FLL) möter unga näringslivets och samhällets företrädare i ett långsiktigt sammanhang.
 
@@ -19,9 +22,9 @@ Under dagen utses Skånes regionala vinnare för att representera Skåne i den s
 
 Oavsett vem som vinner så kommer över 450 barn (4-9 år och 10-16 år) att under åtta veckor ha byggt laganda, undersökt frågeställningar som de själva identifierat och skapat egna lösningar på tekniska problem som skulle utmana många vuxna.
 
-#### **Vill du och ditt företag också vara med och göra skillnad? Kontakta mig.**
+_**Vill du och ditt företag också vara med och göra skillnad? Kontakta mig.**_
 
 **Leila Khammari**  
-ordförande , Föreningen FIRST LEGO League Skåne  
-[leila@firstlegoleagueskane.se]()  
+Ordförande, Föreningen FIRST LEGO League Skåne  
+[leila@firstlegoleagueskane.se](mailto:leila@firstlegoleagueskane.se)  
 070-561 38 85

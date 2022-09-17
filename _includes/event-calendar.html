@@ -1,0 +1,17 @@
+<section class="calendar">
+{% assign count = 0 %}
+{% if page.calendar_tag %}
+  {% assign tag_filter = page.calendar_tag %}
+{% else %}
+  {% assign tag_filter = include.tag %}
+{% endif %}
+{% for event in site.events %}
+  {% if tag_filter == nil or event.tags contains tag_filter %}
+    {% include event-card.html event=event location=true %}
+    {% assign count = count | plus: 1 %}
+  {% endif %}
+{% endfor %}
+{% if count == 0 %}
+  Det finns inga planerade aktiviteter just nu. Kom tillbaka senare, eller titta i vår [årskalender](/kalender/).
+{% endif %}
+</section>

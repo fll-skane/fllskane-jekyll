@@ -1,9 +1,13 @@
 ---
-permalink: "/volontar/"
-title: Volontärer
+permalink: /intresse/bli-funktionar/
+title: Bli funktionär
+breadcrumb:
+  label: "Tillbaka till Intresse"
+  url: /intresse/
 
 ---
-# Var med och bidra till att regionfinalen blir en så lyckad dag som möjligt!
+
+## Var med och bidra till att regionfinalen blir en så lyckad dag som möjligt!
 
 Som volontär kan du hjälpa till med att vara 
 

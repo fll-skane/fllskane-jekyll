@@ -14,15 +14,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: "sv-SE"
-title: Föreningen First Lego League Skåne
+name: Föreningen FIRST LEGO League Skåne
+title: FIRST LEGO League Skåne
 title_separator: "|"
-email: firstlegoskane@gmail.com
+email: info@firstlegoleagueskane.se
 description: >- # this means to ignore newlines until "baseurl:"
-  Föreningen First Lego League Skåne är en ideell förening som arrangerar tävlingar kring FIRST 
+  Föreningen FIRST LEGO League Skåne är en ideell förening som arrangerar tävlingar kring FIRST 
   LEGO League. Målsättningen är att långsiktigt bidra till att befästa barn och ungdomars 
   nyfikenhet kring problemlösning, programmering, teknik och laganda.
 minimal_mistakes_skin: default
-search: true
+search: false
+atom_feed:
+  hide: true
+breadcrumbs: true # customized, see _include/breadcrumbs.html
 
 # Build settings
 markdown: kramdown
@@ -30,9 +34,8 @@ remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+paginate_path: /nyheter/sida-:num/
 timezone: SE # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-teaser: /assets/images/500x300.jpg
 repository:  fll-skane/fllskane-jekyll-2 
 
 include:
@@ -59,35 +62,17 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "FIRST LEGO League Skåne"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Föreningen First Lego League Skåne är en ideell förening som arrangerar tävlingar kring FIRST LEGO League."
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://beta.firstlegoleagueskane.com"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
-    # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
-
 footer:
   links:
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
-    # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
+    - label: "E-post"
+      # icon: "fab fa-fw fa-at"
+      url: "/kontakt/"
+    - label: "Facebook"
+      # icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/FLLSkane"
+    - label: "LinkedIn"
+      # icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/company/firstlegoleagueskane/"
 
 defaults:
   # _posts
@@ -95,12 +80,16 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
-      author_profile: false
+      layout: news-item
+      author_profile: true
       read_time: false
       comments: false
+      show_date: true
       share: false
       related: true
+      breadcrumb:
+        label: "Tillbaka till Nyheter"
+        url: "/nyheter/"
   # _pages
   - scope:
       path: "_pages"
@@ -108,10 +97,16 @@ defaults:
     values:
       layout: single
       author_profile: false
-      header:
-        overlay_color: "#000"
-        overlay_filter: "0.5"
-        overlay_image: /assets/images/500x300.jpg
+  # _events
+  - scope:
+      path: "_events"
+      type: events
+    values:
+      layout: event-item
+      author_profile: false
+      breadcrumb:
+        label: "Tillbaka till Kalendern"
+        url: "/kalender/"
 
 category_archive:
   type: liquid
@@ -119,3 +114,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
+collections:
+  events:
+    output: true
+    permalink: /:collection/:name/

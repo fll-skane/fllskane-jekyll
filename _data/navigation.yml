@@ -1,8 +1,14 @@
 ---
 main:
-- title: Viktiga datum 2022
-  url: viktiga-datum-2022
-- title: Bli medlem
-  url: bli-medlem
-- title: Om oss
-  url: "/om-oss/"
+- title: Allt om FLL 2022
+  url: /2022/
+- title: Anmäl intresse
+  url: /intresse/
+- title: Bli partner
+  url: /bli-partner/
+- title: Kalender
+  url: /kalender/
+- title: Nyheter
+  url: /nyheter/
+- title: Om föreningen
+  url: /om-foreningen/

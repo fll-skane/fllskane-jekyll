@@ -1,6 +1,9 @@
 ---
-permalink: "/jury/"
-title: Jury
+permalink: /intresse/bli-jurymedlem/
+title: Bli jurymedlem
+breadcrumb:
+  label: "Tillbaka till Intresse"
+  url: /intresse/
 
 ---
 ## Vill du vara med i juryn för FIRST LEGO League Skåne?

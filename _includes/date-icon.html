@@ -1,0 +1,9 @@
+{% assign d = include.date | date: "%u" | to_integer %}
+{% assign weekday = site.data.ui-text[site.locale].dateabbr_day_names[d] %}
+{% assign m = include.date | date: "%-m" | to_integer %}
+{% assign month = site.data.ui-text[site.locale].dateabbr_month_names[m] %}
+<time class="date-icon" itemprop="startDate" datetime="{{ include.date | date_to_xmlschema }}">
+  <span class="weekday">{{ weekday }}</span>
+  <span class="date">{{ include.date | date: "%-d" }}</span>
+  <span class="month">{{ month }}</span>
+</time>

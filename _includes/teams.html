@@ -1,0 +1,6 @@
+{% assign teams = site.data.teams | sort: "Lagnummer", "first" %}
+{% for team in teams %}
+{% if team["År"] == include.year and team["Division"] == include.division and team["Status"] == "Accepterad" then %}
+  {% include team.html team=team %}
+{% endif %}
+{% endfor %}
