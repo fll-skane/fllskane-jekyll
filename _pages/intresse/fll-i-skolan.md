@@ -1,10 +1,10 @@
 ---
-permalink: /intresse/fll-i-skolan/
+permalink: "/intresse/fll-i-skolan/"
 title: Använd FLL i skolan
 author_profile: true
-author: "Tove Thyni"
+author: Martin Müntzing
 breadcrumb:
-  label: "Tillbaka till Intresse"
-  url: /intresse/
+  label: Tillbaka till Intresse
+  url: "/intresse/"
 
 ---
