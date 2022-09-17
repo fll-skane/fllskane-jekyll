@@ -17,13 +17,9 @@ fields:
       format: markdown
     max: 300
   label: Sammanfattning
-- name: tags
-  type: tag_list
-  default: []
-  label: Taggar
 - name: eventstart
   type: datetime
-  label: Startdatum
+  label: Startdatum/tid
   description: ''
   config:
     required: true
@@ -31,3 +27,22 @@ fields:
     time_format: hh:mm
     display_utc: false
     export_format: YYYY-MM-DD hh:mm:ss
+- name: eventend
+  type: datetime
+  label: Slutdatum/tid
+  description: ''
+  config:
+    required: false
+    date_format: YYYY-MM-DD
+    time_format: hh:mm
+    display_utc: false
+    export_format: YYYY-MM-DD hh:mm:ss
+- name: tags
+  type: tag_list
+  default: []
+  label: Taggar
+- name: location
+  type: text
+  config:
+    required: false
+  label: Plats
