@@ -47,4 +47,5 @@ fields:
   default: []
   label: Taggar
 pages:
+- _events/2022-03-11-fodelsedag.md
 - _events/halloween.md
