@@ -15,14 +15,14 @@ feature_row:
     och teknik?
   image_path: "/uploads/stod-som-jury.jpg"
   alt: Sötta som domare
-  url: "/bli-jurymedlem/"
+  url: "/intresse/bli-jurymedlem/"
   btn_class: btn--primary
   btn_label: Läs om att vara domare
 - title: Stötta som funktionär
   excerpt: Känner du någon som kan hjälpa oss med genomförandet av årets regionfinal?
   image_path: "/uploads/stod-som-funktionar.jpg"
   alt: Stötta som funktionär
-  url: "/bli-funktionar/"
+  url: "/intresse/bli-funktionar/"
   btn_class: btn--primary
   btn_label: Anmäl ditt intresse
 - title: Stötta som partner
