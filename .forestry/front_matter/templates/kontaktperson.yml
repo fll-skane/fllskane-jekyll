@@ -1,4 +1,36 @@
 ---
 label: Kontaktperson
 hide_body: true
-fields: []
+fields:
+- name: name
+  type: text
+  config:
+    required: true
+    max: 100
+  label: Namn
+- name: avatar
+  type: file
+  config:
+    maxSize: 64
+  label: Bild
+- name: bio
+  type: text
+  config:
+    required: false
+    max: 100
+  label: Beskrivning
+- name: email
+  type: text
+  config:
+    required: false
+  label: E-post
+- name: telephone
+  type: text
+  config:
+    required: false
+  label: Telefon
+- name: uri
+  type: text
+  config:
+    required: false
+  label: Webblänk
