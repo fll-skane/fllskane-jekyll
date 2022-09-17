@@ -8,6 +8,12 @@ fields:
 - type: datetime
   name: date
   label: Datum
+  config:
+    export_format: YYYY-MM-DD hh:mm:ss
+    date_format: YYYY-MM-DD
+    time_format: hh:mm
+    required: true
+  default: now
 - name: tags
   type: tag_list
   default: []
