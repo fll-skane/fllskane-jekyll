@@ -14,7 +14,7 @@ sections:
   match: "**/*"
 - type: jekyll-posts
   label: Nyheter
-  create: all
+  create: documents
   templates:
   - nyhet
 - type: directory
