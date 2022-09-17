@@ -4,12 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: jekyll-pages
-  label: Sidor (pages)
-  create: documents
-  match: "**/*"
-  templates:
-  - sida
 - type: directory
   path: _pages
   label: Sidor
