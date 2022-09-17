@@ -4,19 +4,15 @@ hide_body: false
 fields:
 - type: text
   name: permalink
-  label: permalink
+  label: Url
 - type: text
   name: title
-  label: Title
+  label: Titel
+  config:
+    required: true
 - name: toc
   type: boolean
-  label: Table of contents
-- name: classes
-  type: text
-  config:
-    required: false
-  label: Classes
-  hidden: false
+  label: Visa innehållsförteckning
 - name: author_profile
   type: boolean
   label: Visa kontaktperson
