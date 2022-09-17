@@ -37,10 +37,10 @@ paginate: 5 # amount of posts to show
 paginate_path: /nyheter/sida-:num/
 timezone: SE # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 repository:  fll-skane/fllskane-jekyll-2 
+future: true
 
 include:
   - _pages
-  - _events
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
