@@ -4,19 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: _data/authors.yml
-  label: Kontaktpersoner
-- type: directory
-  path: _events
-  label: Aktiviteter
-  create: documents
-  match: "**/*"
-- type: jekyll-posts
-  label: Nyheter
-  create: documents
-  templates:
-  - nyhet
 - type: directory
   path: _pages
   label: Sidor
@@ -24,6 +11,19 @@ sections:
   match: "**/*"
   templates:
   - sida
+- type: jekyll-posts
+  label: Nyheter
+  create: documents
+  templates:
+  - nyhet
+- type: directory
+  path: _events
+  label: Aktiviteter
+  create: documents
+  match: "**/*"
+- type: document
+  path: _data/authors.yml
+  label: Kontaktpersoner
 - type: document
   path: _data/navigation.yml
   label: Navigation
