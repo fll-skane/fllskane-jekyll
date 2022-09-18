@@ -54,6 +54,7 @@ Besök [hjernekraft.org för exempel på planering](https://hjernekraft.org/chal
 
 För att delta i Challenge behövs följande utrustning. Explore använder liknande material.
 
+* **Lagtröjor":** Tröjor för laget (12) ingår i anmälningsavgiften
 * **Ett "Challenge set":** en robotmatta och LEGO-klossar som hör till årets tema
 * **En LEGO robot:** LEGO Education SPIKE Prime eller LEGO MINDSTORMS, vilka kan återanvändas från år till år
 
