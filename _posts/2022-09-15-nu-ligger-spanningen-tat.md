@@ -8,7 +8,7 @@ author_profile: true
 author: Annie Bergh
 
 ---
-Nu är det precis två dygn tills årets uppdrag släpps och därefter kan ni logga in på Hjernekraft och hitta allt ert material där.
+Nu är det precis två dygn tills årets uppdrag släpps och därefter kan ni [logga in på Hjernekraft](https://hjernekraft.org/logg-inn) och hitta allt ert material där.
 
 Uppdragssläppet är inte bara ett klockslag utan det är ett event. Detta event ligger på Facebook: [Oppdragsslipp SUPERPOWERED](https://www.facebook.com/events/1872128736458555/?ref=newsfeed)
 
