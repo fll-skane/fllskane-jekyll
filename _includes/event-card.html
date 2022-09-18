@@ -14,38 +14,6 @@
     {% include event-meta.html event=item %}
     {% if item.excerpt and item.excerpt %}<div class="event__excerpt" itemprop="description">{{ item.excerpt }}</div>{% endif %}
   </div>
-  <script type="text/javascript">
-    if( !document.Calendar ) {
-      // one-time initialization
-      document.Calendar = {
-        today: new Date().toLocaleDateString('sv-SE'),
-        compareToToday: function(date) {
-          if( date.toLocaleDateString('sv-SE') < document.Calendar.today ) {
-            return 'past';
-          }
-          if( date.toLocaleDateString('sv-SE') > document.Calendar.today ) {
-            return 'future';
-          }
-          return 'today';
-        },
-        markUpAllEvents: function() {
-          var index = 0;
-          var items = document.querySelectorAll('*[data-date]');
-          for(var i = 0; i<items.length; i++) {
-            var item = items[i];
-            var date = new Date(item.getAttribute('data-date'));
-            var period = document.Calendar.compareToToday(date);
-            item.classList.add('event-period-'+period)
-            if( period == 'future' || period == 'today' ) {
-              index++;
-              item.classList.add('event-period-index-'+index)
-            }
-          }
-        }
-      };
-      window.addEventListener('load', document.Calendar.markUpAllEvents);
-    }
-  </script>
 {% else %}
   <!-- event '{{ include.event }}'' not found -->
 {% endif %}

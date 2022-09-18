@@ -1,0 +1,31 @@
+<script type="text/javascript">
+  window.addEventListener('load', function() {
+    var Calendar = {
+      today: new Date().toLocaleDateString('sv-SE'),
+      compareToToday: function(date) {
+        if( date.toLocaleDateString('sv-SE') < Calendar.today ) {
+          return 'past';
+        }
+        if( date.toLocaleDateString('sv-SE') > Calendar.today ) {
+          return 'future';
+        }
+        return 'today';
+      },
+      markUpAllEvents: function() {
+        var index = 0;
+        var items = document.querySelectorAll('*[data-date]');
+        for(var i = 0; i<items.length; i++) {
+          var item = items[i];
+          var date = new Date(item.getAttribute('data-date'));
+          var period = Calendar.compareToToday(date);
+          item.classList.add('event-period-'+period)
+          if( period == 'future' || period == 'today' ) {
+            index++;
+            item.classList.add('event-period-index-'+index)
+          }
+        }
+      }
+    };
+    Calendar.markUpAllEvents();
+  });
+</script>
