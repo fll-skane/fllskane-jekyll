@@ -8,7 +8,7 @@ title: Nu ligger spänningen tät!
 ---
 Nu är det precis två dygn tills årets uppdrag släpps och därefter kan ni logga in på Hjernekraft och hitta allt ert material där.
 
-Uppdragssläppet är inte bara ett klockslag utan det är ett event. Detta event ligger på Facebook och länken till det är här: [(20+) Oppdragsslipp SUPERPOWERED | Facebook](https://www.facebook.com/events/1872128736458555/?ref=newsfeed)
+Uppdragssläppet är inte bara ett klockslag utan det är ett event. Detta event ligger på Facebook: [Oppdragsslipp SUPERPOWERED](https://www.facebook.com/events/1872128736458555/?ref=newsfeed)
 
 Här kan ni följa uppdragssläppet från FIRST Scandinavia – det kommer att bli en härlig kick-off på årets tema som kommer att sätta oss i rätt stämning!
 
