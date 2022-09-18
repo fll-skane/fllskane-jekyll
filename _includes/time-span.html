@@ -1,0 +1,11 @@
+{% assign start_date = include.startdate | date_to_xmlschema | slice: 0, 10 %}
+{% assign end_date = include.enddate | date_to_xmlschema | slice: 0, 10 %}
+{% assign start_time = include.startdate | date_to_xmlschema | slice: 11, 5 %}
+{% assign end_time = include.enddate | date_to_xmlschema | slice: 11, 5 %}
+
+{{ start_date }} {% if start_time != "00:00" %}{{ start_time }}{% endif %}
+{% if include.enddate and include.startdate != include.enddate %}
+  -
+  {% if end_date != start_date %}{{ end_date }}{% endif %}
+  {% if end_time != "00:00" %}{{ end_time }}{% endif %}
+{% endif %}

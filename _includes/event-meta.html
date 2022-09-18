@@ -1,0 +1,12 @@
+<div class="event-details">
+  <label for="event-datetime">När</label>
+  <div id="event-datetime">
+    {% include time-span.html startdate=include.event.eventstart enddate=include.event.eventend %}
+  </div>
+  {% if include.event.location %}
+    <label for="event-location">Var</label>
+    <div id="event-location">
+      {{ include.event.location }}
+    </div>
+  {% endif %}
+</div>

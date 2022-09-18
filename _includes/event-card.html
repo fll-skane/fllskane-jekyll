@@ -11,6 +11,7 @@
   <div class="event__item" data-date="{{ item.eventstart | date_to_xmlschema }}" data-type="event" data-url="{{ item.url }}" itemscope itemtype="https://schema.org/Event">
     {% include date-icon.html date=item.eventstart %}
     <a class="event__name" href="{{ item.url }}" itemprop="name">{{ item.title }}</a>
+    {% include event-meta.html event=item %}
     {% if item.excerpt and item.excerpt %}<div class="event__excerpt" itemprop="description">{{ item.excerpt }}</div>{% endif %}
   </div>
   <script type="text/javascript">

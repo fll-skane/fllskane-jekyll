@@ -32,15 +32,105 @@ div.posts {
   text-transform: none;
 }
 
-body.layout--news-item nav.pagination {
+.layout--news .archive__item h2 {
+  font-size: $h-size-4;
+}
+
+.layout--news-item nav.pagination {
   display: none;
 }
 
-/*
-.fa, .fas {
-  font-weight: normal;
+.event__item {
+  content: "";
+  clear: both;
+  min-height: 4.0em;
+  margin-bottom: 1.0em;
+  width: 100%;
+  padding-left: 4.5em;
+
+  time.date-icon {
+    position: absolute;
+    margin-left: -4.5em;
+  }
+
+  a.event__name {
+    font-size: $h-size-4;
+    font-weight: bold;
+    display: block;
+  }
+  .event__excerpt {
+    font-size: $type-size-6;
+
+    p {
+      margin-bottom: 0;
+    }
+  }
+
+  .event-details {
+    font-size: $type-size-6;
+    padding-bottom: 1em;
+
+    label {
+      font-weight: bold;
+      width: 3em;
+      display: block;
+      float: left;
+      clear: both
+    }
+    div {
+      margin-bottom: 0.25em;
+    }
+  }
 }
-*/
+
+body.layout--news-item {
+  .event__item {
+    float: right;
+    max-width: 45%;
+    min-width: 250px;
+
+    xpadding: 5px;
+    margin-left: 1em;
+    border-left: 1px solid $border-color;
+    padding-left: 5.5em;
+  }
+}
+
+body.layout--event-item {
+  header {
+    border-left: 5.5em solid $border-color;
+    padding-top: 1em;
+    padding-left: 1em;
+    xpadding-bottom: 1em;
+    margin-bottom: 1.5em;
+    border-bottom: 1px solid $border-color;
+  
+    h1 {
+      xmargin-top: 21px;
+    }
+  
+    time.date-icon {
+      position: absolute;
+      margin-left: -5.5em;
+    }
+  }
+}
+
+
+section.calendar {
+  .event__item {
+    display: none; /* hide all by default; then show them based on time period (past/today/future below) */
+    .event-details {
+      display: none;
+    }
+    
+    &.event-period-today, &.event-period-future {
+      display: table;
+    }
+  }
+}
+
+/* only show next five calendar entries on 'allt-om' page */
 body.page__allt-om {
   section.calendar {
     .event__item {
@@ -58,47 +148,7 @@ body.page__allt-om {
     }
   }  
 }
-section.calendar {
-  xborder: 1px solid $light-gray;
-  xborder-radius: 1.3em;
-  xpadding: 1.0em;
-  xpadding-bottom: 0;
-  xmargin-bottom: 1em;
-  
-  .event__item {
-    display: none; /* hide all by default; then show them based on time period (past/today/future below) */
-    content: "";
-    clear: both;
-    min-height: 4.0em;
-    margin-bottom: 1.0em;
-    width: 100%;
-    padding-left: 4.5em;
-  
-    &.event-period-today, &.event-period-future {
-      display: table;
-    }
 
-    time.date-icon {
-      position: absolute;
-      margin-left: -4.5em;
-    }
-
-    a.event__name {
-      xtext-decoration: none;
-      font-size: $h-size-4;
-      color: $text-color;
-      font-weight: bold;
-      display: block;
-    }
-    .event__excerpt {
-      font-size: $type-size-6;
-
-      p {
-        margin-bottom: 0;
-      }
-    }    
-  }
-}
 
 time.date-icon {
   position: relative;
@@ -138,33 +188,6 @@ time.date-icon {
     width: 100%;
     background-color: $lighter-gray;
     border-radius: 0px 0px $border-radius $border-radius;
-    xcolor: #fff;
-  }
-}
-
-body.layout--news-item {
-  .event__item {
-    float: right;
-    max-width: 40%;
-    min-width: 200px;
-
-    padding: 5px;
-    xborder-radius: 18px;
-    xbackground-color: #eee;
-    xborder: 3px solid #ccc;
-  }
-}
-
-body.layout--event-item {
-  h1 {
-    margin-top: 21px;
-  }
-
-  time.date-icon {
-    margin-top: -21px;
-    float: left;
-    margin-right: 20px;
-    margin-bottom: 1em;
   }
 }
 
