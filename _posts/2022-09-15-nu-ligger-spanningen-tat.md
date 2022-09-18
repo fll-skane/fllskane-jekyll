@@ -4,6 +4,8 @@ tags:
 - Lagledare
 event: _events/2022-09-19-lagledartraff.md
 title: Nu ligger spänningen tät!
+author_profile: true
+author: Annie Bergh
 
 ---
 Nu är det precis två dygn tills årets uppdrag släpps och därefter kan ni logga in på Hjernekraft och hitta allt ert material där.
