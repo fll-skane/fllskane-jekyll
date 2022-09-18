@@ -7,7 +7,7 @@ author: Leila Khammari
 ---
 ## Vår verksamhet
 
-Föreningen FIRST LEGO League skapades först 2019, men vårt arbete går tillbaka till 2017. Vi har som målsättning att bidra till att befästa barn och ungdomars nyfikenhet kring problemlösning, programmering, teknik och laganda. 
+**FIRST LEGO League Skåne** är en lokal ideell förening som skapades 2019, men vårt arbete går tillbaka till 2017. Vi har som målsättning att bidra till att befästa barn och ungdomars nyfikenhet kring problemlösning, programmering, teknik och laganda. 
 
 Vi vänder oss till barn, ungdomar, vuxna, fritidsklubbar, skolor, företag och organisationer som delar föreningens målsättning. Vill du veta mer om hur föreningens verksamhet bedrivs finns [våra stadgar här](/uploads/2019-stadgar-for-foreningen-first-lego-league-skane.pdf).
 
