@@ -33,9 +33,9 @@ FLL drivs och organiseras i Skåne av Föreningen FIRST LEGO League Skåne. I v�
 
 Genom att delta och engagera dig och dina elever i FIRST LEGO League bidrar du aktivt till att förbereda och träna elever i det livslånga och delade lärandet.
 
-## Genomförande
+## Aktiviteter
 
-För att genomföra FLL som del av skolans verksamhet rekommenderar vi att aktiviteterna vävs in i den ordinerie pedagogiken, och inte genomförs som sidoprojekt. Det säkerställer att tillräcklig tid sätts av, och att eleverna upplever nytta med arbetet.
+För att genomföra FLL som del av skolans verksamhet rekommenderar vi att aktiviteterna vävs in i den ordinarie pedagogiken, och inte genomförs som sidoprojekt. Det säkerställer att tillräcklig tid sätts av, och att eleverna upplever nytta med arbetet.
 
 I korthet rekommenderar vi att du genomför följande aktiviteter:
 

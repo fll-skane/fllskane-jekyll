@@ -6,11 +6,11 @@ title: Innovation och teknik för barn och unga
 
 FIRST&reg; LEGO&reg; League (FLL) är ett världsomspännande program med över en kvarts miljon deltagande barn och unga. I FLL får deltagarna uppleva forskning och teknik på ett autentiskt och modernt sätt. De samarbetar kring att hitta innovativa lösningar på riktiga problem som ingen vuxen vet svaret på.
 
-FLL inspirerar barn och unga i åldern 4-16 år att bli morgondagens ingenjörer, forskare och problemlösare. Genom samhällsaktuella uppdrag får deltagarna uppleva vetenskap och teknik på ett engagerande och spännande sätt.
+FLL inspirerar barn och unga i åldern 4-16 år att bli morgondagens ingenjörer, forskare och problemlösare.
 
 ## Projektet och tävlingen
 
-Under åtta spännande veckor får barnen och ungdomarna uppleva ett praktiskt inlärande av naturvetenskap och teknik. De får komma på innovativa lösningar till och utforska verklighetens utmaningar, som ingen vuxen vet svaret på. I arbetet får de:
+Under åtta spännande veckor får barnen och ungdomarna uppleva ett praktiskt inlärande av naturvetenskap och teknik. De får komma på innovativa lösningar och utforska verklighetens utmaningar som ingen vuxen vet svaret på. I arbetet får de:
 
 * designa och programmera en LEGO-robot till att lösa utmaningar
 * definera ett problem/utmaning och forsöka hitta en innovativ lösning
@@ -18,11 +18,15 @@ Under åtta spännande veckor får barnen och ungdomarna uppleva ett praktiskt i
 
 FLL baseras på ett nytt tema varje år. Temat relaterar sig till aktuella samhällsutmaningar och möjligheter. Arbetet genomförs i lag, där lagen ofta tar utgångspunkt i en skolklass, en lokal förening, eller grupp kompisar. Varje lag leds av en vuxen lagledare. 
 
-Genomförandet är indelad i tre divisioner, där utformningen av tävlingen är anpassad till respektive åldersnivå:
+Genomförandet sker alltid under hösten, vanligvis september-november, och är indelad i tre divisioner. Utformningen av tävlingen är anpassad till respektive åldersnivå:
 
 * **Challenge** för ungdomar mellan 10-16 år
 * **Explore** för barn mellan 6-9 år
 * **Discover** för barn mellan 4-6 år (genomförs inte i FLL Skåne)
+
+Kom igång och läs mer om [FLL i skolan](/intresse/fll-i-skolan) och [FLL med kompisar](/intresse/fll-med-kompisar), eller bli inspirerad av [tidigare säsonger](/intresse/tidigare-sasonger/).
+
+
 
 ## Organisationerna bakom FLL
 
@@ -30,31 +34,13 @@ FLL började som ett samarbete mellan organisationen [FIRST](https://www.firstin
 
 Vår ideella förening, [FIRST&reg; LEGO&reg; League Skåne](/om-foreningen/), driver genomförandet av FLL för lag i Skåne med omnejd.
 
-
-## Hur genomförs FLL
-
-Kostnader
-
-vinsterna
-
-tid/årshjul
-
-hjernekraft.org
-
-[FLL i skolan](/intresse/fll-i-skolan)
-
-[FLL med kompisar](/intresse/fll-med-kompisar)
-
-Kontakt till lag nära dig: Malmö, Landskrona, Helsingborg...
-
 ## Engagera dig som jurymedlem eller funktionär
 
-[Bli funktionar](/intresse/bli-funktionar/)
+FLL bygger på engagemang från frivilliga, och ekonomiskt stöd från privata och offentliga organisationer. Du kan också hjälpa till.
 
-[Bli jurymedlem](/intresse/bli-jurymedlem/)
+Som [jurymedlem](/intresse/bli-jurymedlem/) eller [partner](/bli-partner/) visar du att världen utanför skolan är intresserad av deras nyvunna kunskaper. Din närvaro och dina bidrag uppmuntrar deltagarna att uppskatta problemlösning, och söka en framtid med en teknisk eller naturvetenskaplig bas.
 
-[Bli partner](/bli-partner/)
+Som [funktionär](/intresse/bli-funktionar/)  som får allt att funka under regionfinalen. Med dig på plats får deltagare och lagledare stöd att i slutföra sitt intensiva projektarbete på bästa möjliga sätt.
 
-## Tidigare genomföranden
+**Är du intresserad av att hjälpa till, [anmäl ditt intresse](/intresse/anmal/).**
 
-[Tidigare säsonger](/intresse/tidigare-sasonger/)

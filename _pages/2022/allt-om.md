@@ -10,7 +10,7 @@ author: "Annie Bergh"
 
 ---
 
-Här hittar du allt du behöver tänka på i förberedelserna och genomförandet av FLL 2022.
+Här hittar du allt du behöver veta för att förbereda och genomföra årets upplaga av FLL.
 
 ## Tema: Super Powered
 
