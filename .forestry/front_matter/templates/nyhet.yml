@@ -18,6 +18,18 @@ fields:
   type: tag_list
   default: []
   label: Taggar
+- name: event
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: aktiviteter
+      file: 
+      path: 
+  label: Relaterad aktivitet
 pages:
 - _posts/2021-01-25-kallelse-till-arsmote-2021.md
 - _posts/2021-08-26-utveckla-entreprenoriella-formagor-i-autentiska-sammanhang.md
