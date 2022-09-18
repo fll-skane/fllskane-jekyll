@@ -8,5 +8,4 @@ tags:
 
 För alla lagledare som anmält sig – genomgång av roboten och programmering.
 
-Länk till anmälan: https://docs.google.com/forms/d/e/1FAIpQLSd4pJHa1PMfGMJ23ZSJLdE9_vzCxcFA-ZtnBNtdpjCMHbw3mA/viewform
-
+[Länk till anmälan](https://docs.google.com/forms/d/e/1FAIpQLSd4pJHa1PMfGMJ23ZSJLdE9_vzCxcFA-ZtnBNtdpjCMHbw3mA/viewform)

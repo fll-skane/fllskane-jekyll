@@ -16,4 +16,4 @@ Träff som knyter ihop säcken inför årets uppdrag. Vi tittar på teaserfilmen
 
 * Agenda
 
-Länk till anmälan: https://docs.google.com/forms/d/e/1FAIpQLSd4pJHa1PMfGMJ23ZSJLdE9_vzCxcFA-ZtnBNtdpjCMHbw3mA/viewform?usp=sf_link
+[Länk till anmälan](https://docs.google.com/forms/d/e/1FAIpQLSd4pJHa1PMfGMJ23ZSJLdE9_vzCxcFA-ZtnBNtdpjCMHbw3mA/viewform?usp=sf_link)

@@ -8,5 +8,4 @@ tags:
 
 Digital genomgång av banan och robot för både lag och lagledare.
 
-Länk till anmälan: https://docs.google.com/forms/d/e/1FAIpQLSd4pJHa1PMfGMJ23ZSJLdE9_vzCxcFA-ZtnBNtdpjCMHbw3mA/viewform
-
+[Länk till anmälan](https://docs.google.com/forms/d/e/1FAIpQLSd4pJHa1PMfGMJ23ZSJLdE9_vzCxcFA-ZtnBNtdpjCMHbw3mA/viewform)
