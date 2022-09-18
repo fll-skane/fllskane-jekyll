@@ -1,8 +1,7 @@
 {% assign item=include.event %}
 {% if item.eventstart %}{% else %}
   {% for i in site.events %}
-    {% assign url = i.path | split: "/" | last | split: "." | first %}
-    {% if include.event == url %}
+    {% if include.event == i.path %}
       {% assign item=i %}
     {% endif %}
   {% endfor %}
