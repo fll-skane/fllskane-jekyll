@@ -13,5 +13,5 @@ tags:
 
 Plats: Utvecklingsavdelningen, Malmö stad, Rönnblomsgatan 6A.
 
-Länk till anmälan: https://forms.gle/76bS3befsfLHN31i7\u200B
+[Länk till anmälan](https://forms.gle/76bS3befsfLHN31i7)
 
