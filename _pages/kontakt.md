@@ -4,10 +4,10 @@ title: Kontakta föreningen
   
 ---
 
-...via mail [info@firstleogleaugeskane.se](mailto:info@firstleogleaugeskane.se).
+Du når oss enklast via e-post eller sociala medier:
 
-...via Facebook? /Messenger?
+* [E-post info@firstlegoleagueskane.se](mailto:info@firstlegoleagueskane.se)
+* [Facebook "FLL Skåne"](https://www.facebook.com/FLLSkane){:target="_blank"}
+* [LinkedIn "FIRST LEGO League Skåne"](https://www.linkedin.com/company/firstlegoleagueskane/){:target="_blank"}
 
-...via LinkedIn?
-
-...[anmäl ditt intresse](/intresse/)
+Är du nyfiken på att engagera dig i tävlingen, hoppas vi du [anmäler ditt intresse](/intresse/anmal/)!
