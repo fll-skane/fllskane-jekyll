@@ -30,6 +30,24 @@ fields:
       file: 
       path: 
   label: Relaterad aktivitet
+- name: author_profile
+  type: boolean
+  label: Visa kontaktperson
+- name: author
+  type: select
+  default: ''
+  config:
+    required: false
+    options: []
+    source:
+      type: documents
+      section: kontaktpersoner
+      file: _data/authors.yml
+      path: 
+  label: Kontaktperson
+  showOnly:
+    field: author_profile
+    value: true
 pages:
 - _posts/2021-01-25-kallelse-till-arsmote-2021.md
 - _posts/2021-08-26-utveckla-entreprenoriella-formagor-i-autentiska-sammanhang.md
