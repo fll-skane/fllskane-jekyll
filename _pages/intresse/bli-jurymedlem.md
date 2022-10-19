@@ -7,7 +7,7 @@ breadcrumb:
 toc: false
 
 ---
-## Information för dig som vill vara med i juryn för FIRST LEGO League Skåne
+## Välkommen att vara med i juryn för FIRST LEGO League Skåne
 
 ### **Jurygrupper**
 
