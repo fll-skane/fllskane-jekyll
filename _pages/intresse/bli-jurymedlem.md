@@ -56,12 +56,12 @@ Samtliga jurygrupper har dokumentation att utgå från och bedömningsmatriser a
 
 Vi uppvisar FIRST®-idealen om Gracious Professionalism® och Coopertition® i våra kärnvärden:
 
-* Upptäcka: Vi utforskar nya kunskaper och idéer.
-* Innovation: Vi använder kreativitet och uthållighet för att lösa problem.
-* Påverkan: Vi tillämpar det vi lär oss för att förbättra vår värld.
-* Inkluderande: Vi respekterar varandra och drar nytta av våra olikheter.
-* Samarbete: Vi är starkare när vi arbetar tillsammans.
-* Skoj: Vi har kul!
+* **Upptäcka**: Vi utforskar nya kunskaper och idéer.
+* **Innovation**: Vi använder kreativitet och uthållighet för att lösa problem.
+* **Påverkan**: Vi tillämpar det vi lär oss för att förbättra vår värld.
+* **Inkluderande**: Vi respekterar varandra och drar nytta av våra olikheter.
+* **Samarbete**: Vi är starkare när vi arbetar tillsammans.
+* **Skoj**: Vi har kul!
 
 ### Kommunikation
 
@@ -74,6 +74,8 @@ Vi uppvisar FIRST®-idealen om Gracious Professionalism® och Coopertition® i v
 ### Tema
 
 Årets uppdrag SUPERPOWERED handlar om energi. Uppdraget släpptes den 17 september 2022.
+
+![](/uploads/superpowered_logo_stacked_programname_rgb_fullcolor.png)
 
 Här en hint: [https://www.youtube.com/watch?v=okR1AMFNV3Q](https://www.youtube.com/watch?v=okR1AMFNV3Q "https://www.youtube.com/watch?v=okR1AMFNV3Q")  
 Här en presentation av uppdraget: [https://fb.watch/gfyuaVSMpz/](https://www.youtube.com/watch?v=okR1AMFNV3Q "https://www.youtube.com/watch?v=okR1AMFNV3Q")
