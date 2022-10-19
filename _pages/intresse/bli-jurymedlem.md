@@ -11,7 +11,7 @@ toc: false
 
 ### **Jurygrupper**
 
-Vi söker yrkesverksamma till följande jurygrupper:
+Vi söker yrkesverksamma till följande jurygrupper:![](/uploads/se-inndeling-fll-2021.png)
 
 * **Projektjury**: I projektdelen ska lagen själva definiera ett problem. De ska angripa problemet och presentera en innovativ (ny eller förbättrad) lösning.
 * **Teknikjury**: I teknikdelen ska lagen bygga en LEGO-robot och programmera den att lösa uppdrag på robotbanan.
@@ -73,7 +73,7 @@ Vi uppvisar FIRST®-idealen om Gracious Professionalism® och Coopertition® i v
 
 ### Tema
 
-Årets uppdrag SUPERPOWERED handlar om energi. Uppdraget släpptes den 17 september 2022. 
+Årets uppdrag SUPERPOWERED handlar om energi. Uppdraget släpptes den 17 september 2022.
 
 Här en hint: [https://www.youtube.com/watch?v=okR1AMFNV3Q](https://www.youtube.com/watch?v=okR1AMFNV3Q "https://www.youtube.com/watch?v=okR1AMFNV3Q")  
 Här en presentation av uppdraget: [https://fb.watch/gfyuaVSMpz/](https://www.youtube.com/watch?v=okR1AMFNV3Q "https://www.youtube.com/watch?v=okR1AMFNV3Q")
