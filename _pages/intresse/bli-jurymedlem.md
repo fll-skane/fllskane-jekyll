@@ -15,8 +15,8 @@ Vi söker yrkesverksamma till följande jurygrupper:![](/uploads/se-inndeling-fl
 
 * **Projektjury**: I projektdelen ska lagen själva definiera ett problem. De ska angripa problemet och presentera en innovativ (ny eller förbättrad) lösning.
 * **Teknikjury**: I teknikdelen ska lagen bygga en LEGO-robot och programmera den att lösa uppdrag på robotbanan.
-* **Kärnvärdesjury**: Kärnvärdena genomsyrar hela FIRST LEGO League, och laget ska bära dem med sig under hela perioden, samt under turneringen presentera hur de har implementerat dem.
-* **Bandomare**: Fartfyllda robotmatcher där lagens robotar löser så många uppdrag som möjligt på robotbanan under två minutersmatcher.
+* **Kärnvärdesjury**: Kärnvärdena genomsyrar hela FIRST LEGO League, laget ska bära dem med sig under hela perioden och under turneringsdagen presentera hur de har implementerat dem.
+* **Bandomare**: Fartfylld robottävling där lagens robotar löser så många uppdrag som möjligt på robotbanan under 2,5 minuter.
 
 Det är bra om den som är jurymedlem kan avsätta två arbetsdagar, den ena för jurymöte och inläsning, den andra för regionfinal. Vi bjuder in till jurygenomgång en eller två gånger under veckorna innan regionfinalen.
 
@@ -65,7 +65,7 @@ Vi uppvisar FIRST®-idealen om Gracious Professionalism® och Coopertition® i v
 
 ### Kommunikation
 
-* www.youtube.com: FIRST LEGO League Skåne (filmer från regionfinaler 2021, 2020, 2019, 2018 och 2017) [https://www.youtube.com/channel/UCz4eJXsOtzkPqW3fJ3B-Bng](https://www.youtube.com/channel/UCz4eJXsOtzkPqW3fJ3B-Bng "https://www.youtube.com/channel/UCz4eJXsOtzkPqW3fJ3B-Bng")
+* youtube.com: FIRST LEGO League Skåne (filmer från regionfinaler 2021, 2020, 2019, 2018 och 2017) [https://www.youtube.com/channel/UCz4eJXsOtzkPqW3fJ3B-Bng](https://www.youtube.com/channel/UCz4eJXsOtzkPqW3fJ3B-Bng "https://www.youtube.com/channel/UCz4eJXsOtzkPqW3fJ3B-Bng")
 * facebook.se/FLLSkane
 * linkedin.com/company/firstlegoleagueskane
 * www.hjernekraft.org (sida för laganmälan)
