@@ -46,7 +46,7 @@ Samtliga jurygrupper har dokumentation att utgå från och bedömningsmatriser a
 
 **Datum Skandinavien 2022**
 
-* 3 december 2022 	skandinavisk final i Fornebu/Oslo
+* 3 december 2022 	skandinavisk final, Fornebu/Oslo
 
 **Datum internationellt 2022**
 
