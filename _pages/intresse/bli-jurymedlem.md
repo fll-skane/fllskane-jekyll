@@ -1,9 +1,9 @@
 ---
-permalink: /intresse/bli-jurymedlem/
+permalink: "/intresse/bli-jurymedlem/"
 title: Bli jurymedlem
 breadcrumb:
-  label: "Tillbaka till Intresse"
-  url: /intresse/
+  label: Tillbaka till Intresse
+  url: "/intresse/"
 
 ---
 ## Vill du vara med i juryn för FIRST LEGO League Skåne?
@@ -12,12 +12,12 @@ breadcrumb:
 
 Vi söker yrkesverksamma till följande jurygrupper:
 
-* Projektjury: I projektdelen ska lagen själva definiera ett problem. De ska angripa problemet och presentera en innovativ (ny eller förbättrad) lösning.
-* Teknikjury: I teknikdelen ska lagen bygga en LEGO-robot och programmera den att lösa uppdrag på robotbanan.
-* Kärnvärdesjury: Kärnvärdena genomsyrar hela FIRST LEGO League, och laget ska bära dem med sig under hela perioden, samt under turneringen presentera hur de har implementerat dem.
-* Bandomare: Fartfyllda robotmatcher där lagens robotar löser så många uppdrag som möjligt på robotbanan under två minutersmatcher.
+* **Projektjury**: I projektdelen ska lagen själva definiera ett problem. De ska angripa problemet och presentera en innovativ (ny eller förbättrad) lösning.
+* **Teknikjury**: I teknikdelen ska lagen bygga en LEGO-robot och programmera den att lösa uppdrag på robotbanan.
+* **Kärnvärdesjury**: Kärnvärdena genomsyrar hela FIRST LEGO League, och laget ska bära dem med sig under hela perioden, samt under turneringen presentera hur de har implementerat dem.
+* **Bandomare**: Fartfyllda robotmatcher där lagens robotar löser så många uppdrag som möjligt på robotbanan under två minutersmatcher.
 
-Det är bra om den som är jurymedlem kan avsätta två arbetsdagar, den ena för jurymöte och inläsning, den andra för regionfinal. Vi kommer att bjuda in till jurygenomgång en eller två gånger under perioden 19/10–10/11.
+Det är bra om den som är jurymedlem kan avsätta två arbetsdagar, den ena för jurymöte och inläsning, den andra för regionfinal. Vi bjuder in till jurygenomgång en eller två gånger under veckorna innan regionfinalen.
 
 Samtliga jurygrupper har dokumentation att utgå från och bedömningsmatriser att använda för sitt arbete. Vi blandar jurygrupperna så att det alltid finns personer som varit med tidigare.
 
@@ -37,16 +37,19 @@ Samtliga jurygrupper har dokumentation att utgå från och bedömningsmatriser a
 
 ## Viktiga datum
 
-**Datum Skåne och Skandinavien 2021–2022**
+**Datum Skåne 2022**
 
-* 19/10–10/11 Juryträff (dag ej bestämd) - fysiskt eller digitalt
-* 13/11 Regionfinal - en (1) gemensam plats om möjligt, vi följer FHMs direktiv
-* mars 2022 skandinavisk final i Ålesund
+* 31 oktober		kl. 15:30-17:00, juryträff digitalt, via Teams
+* 7 november		kl. 15:30-17:00, juryträff digitalt, via Teams
+* 12 november		kl. 08:00-15:00, regionfinal, STUDIO Malmö, Nordenskiöldsgatan 24, Malmö
+
+**Datum Skandinavien 2022**
+
+* 3 december 2022 	skandinavisk final i Fornebu/Oslo
 
 **Datum internationellt 2022**
 
-* 20-23/4 The 2021 FIRST Championship, Houston
-* 27-30/4 The 2021 FIRST Championship, Detroit
+* 19-22 april 2023	The 2022 FIRST Championship, Houston
 
 ## FIRST® LEGO® League Kärnvärden
 
@@ -61,21 +64,21 @@ Vi uppvisar FIRST®-idealen om Gracious Professionalism® och Coopertition® i v
 
 ## Kommunikation
 
-* www.youtube.com: FIRST LEGO League Skåne (filmer från regionfinaler 2020, 2019, 2018 och2017) [https://www.youtube.com/channel/UCz4eJXsOtzkPqW3fJ3B-Bng](https://www.youtube.com/channel/UCz4eJXsOtzkPqW3fJ3B-Bng "https://www.youtube.com/channel/UCz4eJXsOtzkPqW3fJ3B-Bng")
+* www.youtube.com: FIRST LEGO League Skåne (filmer från regionfinaler 2021, 2020, 2019, 2018 och2017) [https://www.youtube.com/channel/UCz4eJXsOtzkPqW3fJ3B-Bng](https://www.youtube.com/channel/UCz4eJXsOtzkPqW3fJ3B-Bng "https://www.youtube.com/channel/UCz4eJXsOtzkPqW3fJ3B-Bng")
 * facebook.se/FLLSkane
-* firstlegoskane@gmail.com
-* www.hjernekraft.org
+* linkedin.com/company/firstlegoleagueskane
+* www.hjernekraft.org (sida för laganmälan)
 * #FLLSkane
 
 ## Tema
 
-Uppdraget släpps den 18 september 2021.  
-Här en hint: [https://www.youtube.com/watch?v=2llxVVR7_No](https://www.youtube.com/watch?v=2llxVVR7_No "https://www.youtube.com/watch?v=2llxVVR7_No")
+Årets uppdrag SUPERPOWERED handlar om energi. Uppdraget släpptes den 17 september 2022. 
 
-Här en presentation av uppdraget: [https://www.facebook.com/firstlegoleague/videos/552312049156255](https://www.facebook.com/firstlegoleague/videos/552312049156255 "https://www.facebook.com/firstlegoleague/videos/552312049156255")
+Här en hint: [https://www.youtube.com/watch?v=okR1AMFNV3Q](https://www.youtube.com/watch?v=okR1AMFNV3Q "https://www.youtube.com/watch?v=okR1AMFNV3Q")  
+Här en presentation av uppdraget: [https://fb.watch/gfyuaVSMpz/](https://www.youtube.com/watch?v=okR1AMFNV3Q "https://www.youtube.com/watch?v=okR1AMFNV3Q")
 
 ## Kontakt - Skåne
 
 Projektledare: Annie Bergh, annie.bergh@malmo.se  
-Initiativtagare/ordförande: Leila Khammari, leila.khammari@gmail.com  
+Initiativtagare/ordförande: Leila Khammari, leila@firstlegoleagueskane.se  
 Huvuddomare: Magnus Wallenborg, magnus.wallenborg@gmail.com
