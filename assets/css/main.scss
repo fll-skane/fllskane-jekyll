@@ -238,3 +238,75 @@ time.date-icon {
     font-size: $type-size-6;
   }
 }
+
+
+.countdown {
+  position: absolute;
+  right: 1em;
+  margin-top: -10em;
+  z-index: 1000;
+
+  background-color: #fff;
+  // background: linear-gradient(320deg, #f0d200, #e38d00);
+  background-image: url(/assets/images/super-powered-small.png);
+  background-size: 10em;
+  background-repeat: no-repeat;
+  background-position: 15% 10%;
+
+  padding: 0.5em;
+  padding-top: 5.5em;
+  padding-left: 4em;
+
+  // transform: rotate(10deg);
+
+  // margin: 1em;
+  border-radius: 4px;
+  border: 3px solid $gray;
+  color: #000;
+  // color: #fff;
+  // text-shadow: #000 0 0 4px;
+  text-align: center;
+
+  h3 {
+    font-weight: normal;
+  }
+
+  div {
+    float: left;
+    // content: "";
+    // display: table;
+    // clear: both;
+
+    width: 2.5em;
+    height: 2.5em;
+    // margin: 5px;
+    background-color: #fff;
+    margin: 3px;
+    border-radius: 3px;
+
+    .countdown-number {
+      display: block;
+      font-size: $type-size-4;
+      font-family: $monospace;
+      line-height: 1.4em;
+    }
+    .countdown-label {
+      display: block;
+      font-size: $type-size-8;
+      line-height: 0.5em;
+    }
+  }
+}
+
+/* make room for counter (see above) */
+.page__hero--overlay .wrapper {
+}
+.page__hero--overlay .page__lead {
+  // background-color: blue;
+  width: 100%;
+  max-width: none;
+  padding-right: 13em;
+}
+.page__hero--overlay .page__title {
+  font-size: $type-size-3;
+}

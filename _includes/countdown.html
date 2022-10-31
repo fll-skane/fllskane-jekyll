@@ -1,1 +1,77 @@
-[Countdown till 12 nov, 2022...]
+<section class="countdown">
+  <div class="countdown-days">
+    <span class="countdown-number">--</span>
+    <span class="countdown-label">dagar</span>
+  </div>
+  <div class="countdown-hours">
+    <span class="countdown-number">--</span>
+    <span class="countdown-label">timmar</span>
+  </div>
+  <div class="countdown-minutes">
+    <span class="countdown-number">--</span>
+    <span class="countdown-label">minuter</span>
+  </div>
+  <div class="countdown-seconds">
+    <span class="countdown-number">--</span>
+    <span class="countdown-label">sekunder</span>
+  </div>
+</section>
+
+<script type="text/javascript">
+  window.addEventListener('load', function() {
+    var CountDown = {
+      launchTime: new Date(Date.parse("2022-11-12T07:00:00.000Z")), // time in UTC
+
+      zeroPad: function(value, size) {
+        value = value.toString();
+        if(size-value.length > 0) {
+          value = "0".repeat(size-value.length) + value;
+        }
+        return value;
+      },
+
+      secondsToTimeSegments: function(s) {
+        var days = Math.trunc(s / (60 * 60 * 24));
+        s -= days * (60 * 60 * 24);
+        var hours = Math.trunc(s / (60 * 60));
+        s -= hours * (60 * 60);
+        var minutes = Math.trunc(s / 60);
+        s -= minutes * (60);
+        var seconds = s % 60;
+
+        return {
+          "days": days, 
+          "hours": hours, 
+          "minutes": minutes, 
+          "seconds": seconds
+        };
+      },
+
+      updateVisualCounter: function(secondsLeft) {
+        var parts = CountDown.secondsToTimeSegments(secondsLeft);
+        for(var key in parts) {
+          var elm = document.querySelector(".countdown .countdown-"+key+" span");
+          elm.innerHTML = CountDown.zeroPad(parts[key], 2);
+        }
+
+        if(secondsLeft <= 0) {
+          clearInterval(CountDown.countdownHandler);
+        }
+      },
+
+      tickCountdown: function() {
+        var nowTime = new Date();
+        var secondsLeft = Math.round((CountDown.launchTime.valueOf() - nowTime.valueOf())/1000);
+        CountDown.updateVisualCounter(Math.max(secondsLeft, 0));
+      },
+
+      countdownHandler: null,
+
+      start: function() {
+        CountDown.countdownHandler = setInterval(CountDown.tickCountdown, 1000);
+        CountDown.tickCountdown();
+      }
+    };
+    CountDown.start();
+  });
+</script>
