@@ -21,6 +21,7 @@ Missa inte möjligheten att inspireras av och möta teknikintresserade barn och 
 
 * **Tid:** lördagen den 12 november, kl. 09:30-16:00
 * **Plats:** STUDIO Malmö, Nordenskiöldsgatan 24, Malmö
+* **Program:** [Hela programmet för dagen](/2022/)
 
 Du hittar [kontaktinformation till oss här](/kontakt/).
 
