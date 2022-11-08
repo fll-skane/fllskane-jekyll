@@ -10,49 +10,62 @@ author: "Annie Bergh"
 
 ---
 
-Här hittar du allt du behöver veta för att förbereda och genomföra årets upplaga av FLL.
+Här hittar du programmet för hela Regionfinalen, lördagen den 11 november 2022. Finns även att [ladda ner som PDF](/uploads/Program 2022.pdf).
 
-## Tema: Super Powered
+### Program
 
-Årets tema heter _Super Powered_ och handlar om energi. ...
+* **08:00** Dörrarna öppnar för lagen
+* **09:30** Öppningsceremoni
+* **10:00** CHALLENGE: tävlingen börjar
+* **10:00** EXPLORE: juryn besöker lagens montrar
+* **11:30** EXPLORE: medaljceremoni
+* **11:30** Lunchservering börjar för CHALLENGE
+* **13:00** CHALLENGE: tävlingen fortsätter
+* **13:55** Paus
+* **14:30** Kvartsfinal och semifinal
+* **15:10** Final
+* **15:30** Medaljceremoni och prisutdelning
 
-[bild]
+_Med reservation för förändringar_
 
-Du hittar alla instruktioner, guider, regler, uppdragsfilmer och inspiration på [Tema: Super Powered](/2022/tema/).
 
-Läs mer om [Super Powered på hjernekraft.org](https://hjernekraft.org/challenge/for-lag/oppdrag-2022).
+### Robotmatcher
 
-## Din roll på FLL
+{% include exports/robotmatcher.html %}
 
-...
+### Presentationer
 
-### Lag & Lagledare
+{% include exports/presentation-challenge.html %}
 
-[Lag & Lagledare](/2022/lag-lagledare/)
+{% include exports/presentation-explore.html %}
 
-### Jurymedlemmar
+### Bandomare och jurygrupper
 
-[Jurymedlem](/2022/jurymedlem/)
+{% include exports/domare-lista.html %}
 
-### Funktionärer
+### Laguppställning
 
-[Funktionär](/2022/funktionar/)
+{% include exports/lag-challenge.html %}
 
-## Viktiga datum
+{% include exports/lag-explore.html %}
 
-Håll koll på dina deadlines. Här är de närmaste aktiviteterna. Du hittar [hela kalendern här](/kalender/).
+### Plats/Lokal
 
-{% include event-calendar.html %}
+STUDIO – Nordenskiöldsgatan 24, Malmö [hitta hit med Google Maps](https://goo.gl/maps/6oUkYnF81L6ydcrK6)
 
-## Årets lag
+**Plan 1**
 
-Som tidigare år genomför vi både divisionerna Challenge och Explore. Årets anmälda lag kommer från flera olika kommuncer i och utanför Skåne. Möt lagen och deras lagledare här.
+* Robotmatcher – BLACKBOX
+* Ceremonier – ATRIET
+* Förtäring – Salads and Smoothies
+* Crew – SATELLIT
 
-### Challenge
+**Plan 2**
 
-{% include teams.html year="2022" division="Challenge" %}
+* Teknikjury 1 – VIEW
+* Teknikjury 2 – ACT
+* Projektjury 1 – BOARD
+* Projektjury 2 – PLAY
+* Montrar – MEGA
 
-### Explore
-
-{% include teams.html year="2022" division="Explore" %}
 

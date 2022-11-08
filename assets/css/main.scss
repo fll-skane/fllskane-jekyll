@@ -14,6 +14,16 @@ $intro-transition: none;
 @import "minimal-mistakes"; // main partials
 /* -- end copy --*/
 
+
+/* -- variables -- */
+
+$fll-blue: #4285F4;
+$fll-challenge: #FF2600; // red
+$fll-explore: #58A65C; // green
+
+
+/* -- page styling -- */
+
 .page__content {
   h2, h3 {
     border-bottom: 0;
@@ -309,4 +319,33 @@ time.date-icon {
 }
 .page__hero--overlay .page__title {
   font-size: $type-size-3;
+}
+
+/* imported tables, waffle style */
+.waffle {
+  width: 100%;
+  display: table;
+
+  td {
+    text-align: center;
+  }
+  td:first-child {
+    text-align: left;
+  }
+  
+  tr:nth-child(odd) {
+    background-color: $border-color;
+  }
+
+  tr:first-child {
+    background-color: $fll-blue;
+    color: #fff;
+  }
+
+  &.team-challenge tr:first-child {
+    background-color: $fll-challenge;
+  }
+  &.team-explore tr:first-child {
+    background-color: $fll-explore;
+  }
 }
