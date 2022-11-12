@@ -10,7 +10,7 @@ author: "Annie Bergh"
 
 ---
 
-Här hittar du programmet för hela Regionfinalen, lördagen den 12 november 2022. Finns även att [ladda ner som PDF](/uploads/Program 2022.pdf).
+Här hittar du programmet för hela Regionfinalen, lördagen den 12 november 2022. Finns även att [ladda ner som PDF](/uploads/Program 2022 UPPDATERAT.pdf).
 
 ### Program
 
