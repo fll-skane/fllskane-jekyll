@@ -1,5 +1,5 @@
 ---
-title: Välkommen till FIRST LEGO  League Skåne!
+title: Välkommen till FIRST LEGO League Skåne
 layout: splash
 permalink: "/"
 excerpt: En förening med syfte att befästa barn och ungdomars nyfikenhet kring problemlösning,
