@@ -1,12 +1,12 @@
 ---
-title: Välkommen till FIRST LEGO League Skåne!
+title: Välkommen till FIRST LEGO League Skåne
 layout: splash
 permalink: "/"
 excerpt: En förening med syfte att befästa barn och ungdomars nyfikenhet kring problemlösning,
   programmering, teknik och laganda.
 header:
   overlay_image: "/uploads/laktaren.jpg"
-  overlay_filter: "rgba(0, 0, 0, 0.5)"
+  overlay_filter: rgba(0, 0, 0, 0.5)
 feature_row:
 - title: Stötta som domare
   excerpt: Vill du skapa en minnesvärd dag för barn och unga som brinner för innovation
@@ -32,7 +32,6 @@ feature_row:
   btn_label: Läs om att bli partner
 
 ---
-
 {% include feature_row %}
 
 ## Nyheter
