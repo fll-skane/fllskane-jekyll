@@ -36,7 +36,7 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /nyheter/sida-:num/
 timezone: SE # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-repository:  fll-skane/fllskane-jekyll-2 
+repository:  fll-skane/fllskane-jekyll
 future: true
 
 include:
