@@ -32,7 +32,6 @@ feature_row:
   btn_label: Läs om att bli partner
 
 ---
-{% include countdown.html %}
 
 {% include feature_row %}
 
