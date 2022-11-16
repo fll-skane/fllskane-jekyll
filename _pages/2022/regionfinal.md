@@ -11,6 +11,7 @@ Här hittar du all information om regionfinalen i FIRST LEGO League Skåne 2021!
 
 [nedräkning: klocka som räknar ner]
 
+
 ## Plats & lokal
 
 Alla moment kommer att genomföras på **Pauliskolan, Föreningsgatan 41, Malmö** ([se vägkarta](https://goo.gl/maps/KACFM5XiXHyDuAYUA)).
