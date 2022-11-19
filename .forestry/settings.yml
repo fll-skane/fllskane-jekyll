@@ -32,8 +32,6 @@ sections:
 - type: document
   path: _data/sponsors.yml
   label: Sponsorer
-  match: "**/*"
-  read_only: false
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
