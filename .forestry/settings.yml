@@ -29,6 +29,10 @@ sections:
 - type: document
   path: _data/navigation.yml
   label: Navigation
+- type: document
+  path: _data/sponsors.yml
+  label: Sponsorer
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
