@@ -1,0 +1,42 @@
+- name: Altitude Meetings
+  image: altitude-meetings.png
+  url: https://altitudemeetings.se/vara-tjanster/konferens-malmo/
+- name: Arm
+  image: arm.png
+  url: https://www.arm.com/
+- name: Axis
+  image: axis.png
+  url: https://www.axis.com/
+- name: Hildeshog
+  image: hildeshog.png
+  url: http://www.hildeshog.se/
+- name: Hipp Media
+  image: hipp-media.png
+  url: https://hippmedia.se/
+- name: Kostministeriet
+  image: kost-ministeriet.png
+  url: https://kostministeriet.se/
+- name: Malmo Stad
+  image: malmo-stad.png
+  url: https://malmo.se/
+- name: Malmö Mäss-Service
+  image: mms.png
+  url: https://mass-service.se/sv-se/
+- name: Nattvandring
+  image: nattvandring.png
+  url: https://www.nattvandring.nu/
+- name: Out of the Box Education
+  image: ootb-education.png
+  url: 
+- name: Sallads And Smoothies
+  image: sallads-and-smoothies.png
+  url: https://www.saladsandsmoothies.se/
+- name: Skolverket
+  image: skolverket.png
+  url: https://www.skolverket.se/
+- name: Teknik College
+  image: teknik-college.png
+  url: https://teknikcollege.se/
+- name: Tetrapak
+  image: tetrapak.png
+  url: https://www.tetrapak.com/

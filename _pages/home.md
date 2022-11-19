@@ -44,4 +44,7 @@ feature_row:
 
 ## Våra samarbetspartners
 
+{% include sponsors.html %}
+<!--
 ![](/uploads/sponsorer.png)
+-->

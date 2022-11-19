@@ -1,0 +1,8 @@
+{% assign sponsors = site.data.sponsors %}
+<div class="sponsors">
+{% for sponsor in sponsors %}
+  <a href="{% if sponsor.url %}{{ sponsor.url }}{% else %}#{% endif %}" target="_blank">
+    <img src="/uploads/sponsorer/{{ sponsor.image }}" title="{{ sponsor.name }}" alt="{{ sponsor.name }}" />
+  </a>
+{% endfor %}
+</div>
