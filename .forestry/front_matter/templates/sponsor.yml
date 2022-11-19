@@ -1,4 +1,22 @@
 ---
 label: Sponsor
 hide_body: true
-fields: []
+fields:
+- name: name
+  type: text
+  config:
+    required: false
+  label: Namn
+  description: Namnet på organisationen
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Logotyp
+  description: Bild på logotyp (320x220px)
+- name: url
+  type: text
+  config:
+    required: false
+  label: Länk
+  description: Länk till organisationens sajt
