@@ -1,14 +1,14 @@
 ---
 main:
-- title: Allt om FLL 2022
-  url: /2022/
+- title: Allt om FLL 2023
+  url: "/2023/"
 - title: Intresserad
-  url: /intresse/
+  url: "/intresse/"
 - title: Bli partner
-  url: /bli-partner/
+  url: "/bli-partner/"
 - title: Kalender
-  url: /kalender/
+  url: "/kalender/"
 - title: Nyheter
-  url: /nyheter/
+  url: "/nyheter/"
 - title: Om föreningen
-  url: /om-foreningen/
+  url: "/om-foreningen/"
