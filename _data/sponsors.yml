@@ -1,3 +1,4 @@
+---
 - name: Altitude Meetings
   image: altitude-meetings.png
   url: https://altitudemeetings.se/vara-tjanster/konferens-malmo/
@@ -16,15 +17,9 @@
 - name: Kostministeriet
   image: kost-ministeriet.png
   url: https://kostministeriet.se/
-- name: Malmo Stad
-  image: malmo-stad.png
-  url: https://malmo.se/
 - name: Malmö Mäss-Service
   image: mms.png
   url: https://mass-service.se/sv-se/
-- name: Nattvandring
-  image: nattvandring.png
-  url: https://www.nattvandring.nu/
 - name: Out of the Box Education
   image: ootb-education.png
   url: 
@@ -34,7 +29,7 @@
 - name: Skolverket
   image: skolverket.png
   url: https://www.skolverket.se/
-- name: Teknik College
+- name: Teknikcollege
   image: teknik-college.png
   url: https://teknikcollege.se/
 - name: Tetrapak
