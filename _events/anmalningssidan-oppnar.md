@@ -1,8 +1,8 @@
 ---
 tags: []
 title: Anmälningssidan öppnar
-eventstart: 2023-04-01 12:00:00
-eventend: 2023-04-01 12:00:00
+eventstart: 2023-04-01 08:00:00
+eventend: 
 excerpt: Anmälning via Hjernekraft's webbsida startar
 location: hjernekraft.org
 
