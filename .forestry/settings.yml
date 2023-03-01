@@ -7,7 +7,7 @@ sections:
 - type: directory
   path: _pages
   label: Sidor
-  create: documents
+  create: all
   match: "**/*"
   templates:
   - sida
