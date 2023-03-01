@@ -7,7 +7,7 @@ toc: false
 ---
 Möten, inspiration, och viktiga datum. Allt hittar du i vår kalender:
 
-1 april&emsp;&emsp;&emsp;anmälningssidan öppnar
+1 apriltab-size: 4;anmälningssidan öppnar
 
 16 september&emsp;&emsp;&emsp;uppdraget släpps
 
