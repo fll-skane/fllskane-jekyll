@@ -1,29 +1,30 @@
-# for icons, check https://fontawesome.com/v4/icons/
+---
 FLL Skåne:
-  name: "FIRST LEGO League Skåne"
+  name: FIRST LEGO League Skåne
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Föreningen FIRST LEGO League Skåne är en ideell förening som arrangerar tävlingar kring FIRST LEGO League."
-  uri: "https://firstlegoleagueskane.se"
+  bio: Föreningen FIRST LEGO League Skåne är en ideell förening som arrangerar tävlingar
+    kring FIRST LEGO League.
+  uri: https://firstlegoleagueskane.se
 Leila Khammari:
-  name: "Leila Khammari"
+  name: Leila Khammari
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Ordförande, FLL Skåne"
-  email: "leila@firstlegoleagueskane.se"
+  bio: Ordförande, FLL Skåne
+  email: leila@firstlegoleagueskane.se
   telephone: "+46 70-561 38 85"
 Martin Müntzing:
-  name: "Martin Müntzing"
+  name: Martin Müntzing
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Ledamot, FLL Skåne"
-  email: "martin@firstlegoleagueskane.se"
+  bio: Ledamot, FLL Skåne
+  email: martin@firstlegoleagueskane.se
   telephone: "+46 70-582 13 80"
 Annie Bergh:
-  name: "Annie Bergh"
-  avatar: "/uploads/annie-bergh_avatar.jpg"
-  bio: "Projektledare"
-  email: "annie.bergh@firstlegoleagueskane.se"
-  telephone: "+46 708-82 59 87"
+  name: Magnus Wallenborg
+  avatar: ''
+  bio: Huvuddomare
+  email: ''
+  telephone: ''
 Tove Thyni:
-  name: "Tove Thyni"
+  name: Tove Thyni
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Rektor, Malmö stad"
-  email: "tove.thyni@malmo.se"
+  bio: Rektor, Malmö stad
+  email: tove.thyni@malmo.se
