@@ -18,13 +18,19 @@ Martin Müntzing:
   email: martin@firstlegoleagueskane.se
   telephone: "+46 70-582 13 80"
 Annie Bergh:
-  name: Magnus Wallenborg
-  avatar: ''
-  bio: Huvuddomare
-  email: ''
-  telephone: ''
+  name: "Annie Bergh"
+  avatar: "/uploads/annie-bergh_avatar.jpg"
+  bio: "Projektledare"
+  email: "annie.bergh@firstlegoleagueskane.se"
+  telephone: "+46 708-82 59 87"
 Tove Thyni:
   name: Tove Thyni
   avatar: "/assets/images/bio-photo.jpg"
   bio: Rektor, Malmö stad
   email: tove.thyni@malmo.se
+Magnus Wallenborg:
+  name: Magnus Wallenborg
+  avatar: ''
+  bio: Huvuddomare
+  email: ''
+  telephone: ''
