@@ -7,11 +7,11 @@ toc: false
 ---
 Möten, inspiration, och viktiga datum. Allt hittar du i vår kalender:
 
-1 april&emsp;anmälningssidan öppnar
+1 april&emsp;&emsp;&emsp;anmälningssidan öppnar
 
-16 september&emsp;uppdraget släpps
+16 september&emsp;&emsp;&emsp;uppdraget släpps
 
-18 september&emsp;lagledarmöte
+18 september&emsp;&emsp;&emsp;lagledarmöte
 
 11 november&emsp;&emsp;&emsp;regionfinal, STUDIO Malmö
 
