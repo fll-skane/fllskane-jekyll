@@ -9,7 +9,7 @@ location: Zoom
 ---
 Välkommen till årsmöte för Föreningen FIRST LEGO League Skåne.
 
-Anmälan till årsmötet sker via e-post till: info@firstlegoleagueskane.se.
+Anmälan till årsmötet sker, senast den 24 mars, via e-post till: info@firstlegoleagueskane.se.
 
 Anmälda, bekräftade medlemmar, kommer få tillgång till möteslänk och handlingar i god tid före mötet. 
 
