@@ -15,4 +15,4 @@ Anmälda, bekräftade medlemmar, kommer få tillgång till möteslänk och handl
 
 Än en gång varmt välkomna!
 
-Leila Khammari, ordförande
+Hälsar styrelsen
