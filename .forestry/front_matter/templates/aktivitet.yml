@@ -15,7 +15,7 @@ fields:
     required: true
     date_format: YYYY-MM-DD
     time_format: h:mm A
-    display_utc: true
+    display_utc: false
     export_format: YYYY-MM-DD hh:mm:ss
 - name: eventend
   type: datetime
@@ -25,7 +25,7 @@ fields:
     required: false
     date_format: YYYY-MM-DD
     time_format: h:mm A
-    display_utc: true
+    display_utc: false
     export_format: YYYY-MM-DD hh:mm:ss
 - name: excerpt
   type: textarea
