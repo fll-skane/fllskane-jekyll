@@ -46,12 +46,6 @@ fields:
   type: tag_list
   default: []
   label: Taggar
-- name: eventstart_manual
-  type: text
-  config:
-    required: false
-  label: Startdatum/tid (manuell)
-  description: Ange datum (och tid) på formatet YYYY-MM-DD eller YYYY-MM-DD hh:mm:ss
 pages:
 - _events/anmalningssidan-oppnar.md
 - _events/kallelse-till-arsmote.md
