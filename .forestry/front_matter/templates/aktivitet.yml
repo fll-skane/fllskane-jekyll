@@ -46,6 +46,16 @@ fields:
   type: tag_list
   default: []
   label: Taggar
+- name: testing_time_only
+  type: datetime
+  label: Testing time only
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: h:mm A
+    display_utc: false
+    export_format: hh:mm:ss
 pages:
 - _events/anmalningssidan-oppnar.md
 - _events/kallelse-till-arsmote.md
