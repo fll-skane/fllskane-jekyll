@@ -9,24 +9,40 @@ fields:
   label: Titel
 - name: eventstart
   type: datetime
-  label: Startdatum/tid
+  label: Startdatum
   description: ''
   config:
     required: true
     date_format: YYYY-MM-DD
-    time_format: h:mm A
+    time_format: ''
     display_utc: false
     export_format: YYYY-MM-DD hh:mm:ss
+- name: eventstart_time
+  type: text
+  config:
+    required: false
+    max: 5
+    min: 5
+  label: Starttid
+  description: Använd formatet hh:mm eller lämna tomt
 - name: eventend
   type: datetime
-  label: Slutdatum/tid
+  label: Slutdatum
   description: ''
   config:
     required: false
     date_format: YYYY-MM-DD
-    time_format: h:mm A
+    time_format: ''
     display_utc: false
     export_format: YYYY-MM-DD hh:mm:ss
+- name: eventend_time
+  type: text
+  config:
+    required: false
+    min: 5
+    max: 5
+  label: Sluttid
+  description: Använd formatet hh:mm eller lämna tomt
 - name: excerpt
   type: textarea
   default: ''
