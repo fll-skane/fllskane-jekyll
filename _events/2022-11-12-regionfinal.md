@@ -2,6 +2,8 @@
 title: Regionfinal Skåne
 eventstart: 2022-11-12 09:30:00
 eventend: 2022-11-12 16:00:00
+eventstart_time: '09:30'
+eventend_time: '16:00'
 excerpt: Den stora finaldagen!
 tags:
   - Lagledare

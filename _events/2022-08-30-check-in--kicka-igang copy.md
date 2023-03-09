@@ -2,6 +2,8 @@
 title: "Check-in: Nu kickar vi igång!"
 eventstart: 2022-08-30 15:00:00
 eventend: 2022-08-30 16:15:00
+eventstart_time: '15:00'
+eventend_time: '16:15'
 tags:
   - Lagledare
 

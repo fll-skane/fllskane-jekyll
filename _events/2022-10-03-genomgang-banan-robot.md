@@ -2,6 +2,8 @@
 title: Genomgång av banan och robot
 eventstart: 2022-10-03 15:00:00
 eventend: 2022-10-03 16:30:00
+eventstart_time: '15:00'
+eventend_time: '16:30'
 tags:
   - Lagledare
 ---

@@ -1,7 +1,9 @@
 ---
 title: Lagledarträff
-eventstart: 2022-09-19T14:00:00.000+00:00
-eventend: 2022-09-19T16:00:00.000+00:00
+eventstart: 2022-09-19 14:00:00
+eventend: 2022-09-19 16:00:00
+eventstart_time: '14:00'
+eventend_time: '16:00'
 location: Utvecklingsavdelningen, Malmö stad, Rönnblomsgatan 6A
 excerpt: Grundlig genomgång för dig som är ny lagledare
 tags:

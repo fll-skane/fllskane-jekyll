@@ -4,6 +4,8 @@ excerpt: Digital check-in för dig som varit med tidigare år.
   Vi knyter ihop säcken inför årets uppdrag, tittar på teaserfilmen och brainstormar temaidéer.
 eventstart: 2022-05-09 16:00:00
 eventend: 2022-05-09 16:45:00
+eventstart_time: '16:00'
+eventend_time: '16:45'
 location: Zoom
 tags:
   - Lagledare
