@@ -22,7 +22,7 @@ fields:
   config:
     required: false
     max: 5
-    min: 5
+    min: 
   label: Starttid
   description: Använd formatet hh:mm eller lämna tomt
 - name: eventend
@@ -39,7 +39,7 @@ fields:
   type: text
   config:
     required: false
-    min: 5
+    min: 
     max: 5
   label: Sluttid
   description: Använd formatet hh:mm eller lämna tomt
