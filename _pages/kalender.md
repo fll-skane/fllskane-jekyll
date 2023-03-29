@@ -4,7 +4,6 @@ title: Kalender
 layout: calendar
 toc: false
 author_profile: false
-published: false
 
 ---
 Möten, inspiration, och viktiga datum. Allt hittar du i vår kalender:
