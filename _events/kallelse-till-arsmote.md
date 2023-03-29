@@ -8,6 +8,7 @@ eventend_time: '19:30'
 excerpt: Välkommen till årsmöte för Föreningen FIRST LEGO League Skåne.
 location: Zoom
 eventstart_manual: '2023-03-29 18:00:00'
+published: false
 
 ---
 Välkommen till årsmöte för Föreningen FIRST LEGO League Skåne.
